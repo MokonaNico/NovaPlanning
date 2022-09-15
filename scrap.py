@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
@@ -34,15 +35,35 @@ options.headless = False
 driver = webdriver.Firefox(options=options)
 driver.get("https://hplanning2022.umons.ac.be/invite")
 time.sleep(5)
-driver.find_element(By.XPATH, '//div[text()="Formations"]').click()
-time.sleep(5)
-recap = driver.find_element(By.XPATH, '//span[text()=" Récapitulatif des cours"]')
 
-print(recap.size)
+# Go into "Formations" tab
+formation = driver.find_element(By.XPATH, '//div[text()="Formations"]')
 action = ActionChains(driver)
-action.move_to_element_with_offset(recap, 65, 7)
+action.move_to_element(formation)
 action.click()
 action.perform()
+
+# Go into "Récapitulatif des cours" tab
+recap = driver.find_element(By.XPATH, '//div[text()="Options"]')
+action = ActionChains(driver)
+action.move_to_element(recap)
+action.move_by_offset(70,30)
+action.click()
+action.perform()
+
+select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select "]')
+action = ActionChains(driver)
+action.move_to_element(select)
+action.move_by_offset(5,5)
+action.click()
+action.pause(1)
+action.send_keys(Keys.ARROW_DOWN)
+action.send_keys(Keys.ARROW_DOWN)
+action.send_keys(Keys.ARROW_DOWN)
+action.perform()
+
+select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select "]')
+print(select.location)
 
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(events))
