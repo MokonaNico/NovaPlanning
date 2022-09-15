@@ -14,7 +14,8 @@ dict_cours = {
     'Méthodes formelles : Fondem.' : 'Méthodes formelles pour la conception de systèmes : fondements',
     'Méth. formelles application' : 'Méthodes formelles pour la conception de systèmes : applications',
     'Calcul.et complexité' : 'Calculabilité et complexité',
-    'ComputVisMachInt' : 'Computer Vision and Machine Intelligence'
+    'ComputVisMachInt' : 'Computer Vision and Machine Intelligence',
+    'SignProces1' : 'Signal Processing'
 }
 
 liste_cours = dict_cours.keys()
