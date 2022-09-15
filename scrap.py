@@ -1,7 +1,14 @@
-from bs4 import BeautifulSoup
-import dateparser
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
+
 from datetime import datetime   
+import dateparser
 import json
+import time
 
 dict_cours = {
     'Réseaux II' : 'Réseaux II',
@@ -17,37 +24,25 @@ dict_cours = {
     'ComputVisMachInt' : 'Computer Vision and Machine Intelligence',
     'SignProces1' : 'Signal Processing'
 }
-
 liste_cours = dict_cours.keys()
 
 events = []
 
-with open('planning.html', encoding="utf-8") as f:
-    html_doc = f.read()
-soup = BeautifulSoup(html_doc, 'html.parser')
+options = Options()
+options.headless = False
 
-for cours in liste_cours:
-    
-    parent_node = soup.find_all(text=cours)
+driver = webdriver.Firefox(options=options)
+driver.get("https://hplanning2022.umons.ac.be/invite")
+time.sleep(5)
+driver.find_element(By.XPATH, '//div[text()="Formations"]').click()
+time.sleep(5)
+recap = driver.find_element(By.XPATH, '//span[text()=" Récapitulatif des cours"]')
 
-    next_node = parent_node[0].parent.parent.parent.parent.parent.parent.findNext('tr').findNext('tr')
-    tbody = next_node.find('tbody')
-    info = tbody.find_all('td')
-
-    for i in range(0,len(info),5):
-        name = dict_cours[cours] + '\n' + info[i+3].text + '\n' + info[i+4].text
-        desc = info[i+3].text + ' ' + info[i+4].text
-        datetext_begin = info[i].text + ' ' + info[i+1].text[3:8]
-        date_begin = dateparser.parse(datetext_begin)
-
-        datetext_end = info[i].text + ' ' + info[i+1].text[10:17]
-        date_end = dateparser.parse(datetext_end)
-
-        events.append({
-            'title':name,
-            'start':date_begin.strftime("%Y-%m-%dT%H:%M:%S"),
-            'end':date_end.strftime("%Y-%m-%dT%H:%M:%S")})
-
+print(recap.size)
+action = ActionChains(driver)
+action.move_to_element_with_offset(recap, 65, 7)
+action.click()
+action.perform()
 
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(events))
