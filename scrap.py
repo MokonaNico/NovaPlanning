@@ -11,6 +11,8 @@ import dateparser
 import json
 import time
 
+output = {}
+
 def move_to_start_position(driver):
     # Go into "Formations" tab
     formation = driver.find_element(By.XPATH, '//div[text()="Formations"]')
@@ -27,6 +29,8 @@ def move_to_start_position(driver):
     action.click()
     action.perform()
 
+
+def move_to_combo(driver):
     select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select "]')
     action = ActionChains(driver)
     action.move_to_element(select)
@@ -43,6 +47,35 @@ def move_down(driver,n,begin_enter=False):
     action.send_keys(Keys.ENTER)
     action.perform()
 
+def get_information(driver,name):
+    output[name] = {}
+
+    tables = driver.find_elements(By.XPATH,'//table[@class="Texte CellulesVisible"]/tbody/tr')
+
+    for i in range(1,len(tables),2):
+        cursus_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td')[1].text
+        output[name][cursus_name] = []
+        list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
+        for cursus in list_cursus:
+            info  = cursus.find_elements(By.XPATH,'./td')
+
+            date  = info[0].find_element(By.XPATH,'./ul/li').get_attribute("innerHTML").replace("&nbsp;", " ")
+            _time = info[1].get_attribute("innerHTML").replace("&nbsp;", " ")
+            start = dateparser.parse(date + ' ' + _time[3:8]).strftime("%Y-%m-%dT%H:%M:%S")
+            end   = dateparser.parse(date + ' ' + _time[10:17]).strftime("%Y-%m-%dT%H:%M:%S")
+
+            teacher = info[3].get_attribute("innerHTML").replace("&nbsp;", " ")
+            room = info[4].get_attribute("innerHTML").replace("&nbsp;", " ")
+            title = cursus_name + '\n' + teacher + '\n' + room
+
+            output[name][cursus_name].append({
+                'title':title,
+                'start':start,
+                'end':end
+                }) 
+
+            
+
 
 options = Options()
 options.headless = True
@@ -50,7 +83,28 @@ driver = webdriver.Firefox(options=options)
 driver.get("https://hplanning2022.umons.ac.be/invite")
 time.sleep(5) # wait for the page to load
 move_to_start_position(driver)
-time.sleep(1)
+move_to_combo(driver)
+time.sleep(5)
 move_down(driver,16)
-time.sleep(1)
-print(driver.page_source)
+time.sleep(5)
+get_information(driver,"BAB1")
+time.sleep(5)
+move_to_combo(driver)
+time.sleep(5)
+move_down(driver,24)
+time.sleep(5)
+get_information(driver,"BAB2")
+time.sleep(5)
+move_to_combo(driver)
+time.sleep(5)
+move_down(driver,24)
+time.sleep(5)
+get_information(driver,"BAB3")
+time.sleep(5)
+move_to_combo(driver)
+time.sleep(5)
+move_down(driver,62)
+time.sleep(5)
+get_information(driver,"MASTER")
+with open('events.json', 'w') as my_file:
+    my_file.writelines(json.dumps(output, indent=4))
