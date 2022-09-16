@@ -11,6 +11,7 @@ import dateparser
 import json
 import time
 
+WAITING_TIME = 5
 output = {}
 
 def move_to_start_position(driver):
@@ -68,43 +69,37 @@ def get_information(driver,name):
             room = info[4].get_attribute("innerHTML").replace("&nbsp;", " ")
             title = cursus_name + '\n' + teacher + '\n' + room
 
-            output[name][cursus_name].append({
-                'title':title,
-                'start':start,
-                'end':end
-                }) 
-
-            
-
+            output[name][cursus_name].append({'title':title,'start':start,'end':end}) 
 
 options = Options()
 options.headless = True
 driver = webdriver.Firefox(options=options)
 driver.get("https://hplanning2022.umons.ac.be/invite")
-time.sleep(5) # wait for the page to load
+time.sleep(WAITING_TIME) # wait for the page to load
 move_to_start_position(driver)
 move_to_combo(driver)
-time.sleep(5)
+time.sleep(WAITING_TIME)
 move_down(driver,16)
-time.sleep(5)
+time.sleep(WAITING_TIME)
 get_information(driver,"BAB1")
-time.sleep(5)
+time.sleep(WAITING_TIME)
 move_to_combo(driver)
-time.sleep(5)
+time.sleep(WAITING_TIME)
 move_down(driver,24)
-time.sleep(5)
+time.sleep(WAITING_TIME)
 get_information(driver,"BAB2")
-time.sleep(5)
+time.sleep(WAITING_TIME)
 move_to_combo(driver)
-time.sleep(5)
+time.sleep(WAITING_TIME)
 move_down(driver,24)
-time.sleep(5)
+time.sleep(WAITING_TIME)
 get_information(driver,"BAB3")
-time.sleep(5)
+time.sleep(WAITING_TIME)
 move_to_combo(driver)
-time.sleep(5)
+time.sleep(WAITING_TIME)
 move_down(driver,62)
-time.sleep(5)
+time.sleep(WAITING_TIME)
 get_information(driver,"MASTER")
+
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(output, indent=4))
