@@ -5,35 +5,7 @@
     <link href='fullcalendar/main.css' rel='stylesheet' />
 
     <script src='fullcalendar/main.js'></script>
-    <script>
-      !async function(){
-        let events = await fetch('./events.json')
-            .then((response) => response.json())
-            .then(events => {
-                calendar(events);
-            })
-            .catch(error => {
-                console.error(error);
-            });
-        }();
-
-      function calendar(events) {
-
-        var calendarEl = document.getElementById('calendar');
-        var calendar = new FullCalendar.Calendar(calendarEl, {
-          locale: 'fr',
-          initialView: 'dayGridMonth',
-          handleWindowResize: true,
-          defaultAllDay: false,
-          displayEventEnd: true,
-          events: events,
-          eventDisplay: 'block'
-
-        });
-        calendar.render();
-      };
-      
-    </script>
+    <script src='script/calendar.js'></script>
   </head>
   <body>
     <div id='calendar'></div>
