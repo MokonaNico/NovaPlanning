@@ -11,6 +11,8 @@ import dateparser
 import json
 import time
 
+from course_info import course_info
+
 WAITING_TIME = 5
 output = {}
 
@@ -54,8 +56,10 @@ def get_information(driver,name):
     tables = driver.find_elements(By.XPATH,'//table[@class="Texte CellulesVisible"]/tbody/tr')
 
     for i in range(1,len(tables),2):
-        cursus_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td')[1].text
-        output[name][cursus_name] = []
+        course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td')[1].text
+        course_name = course_info[course_name][0]
+        if course_name not in output[name]:
+            output[name][course_name] = []
         list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
         for cursus in list_cursus:
             info  = cursus.find_elements(By.XPATH,'./td')
@@ -67,9 +71,9 @@ def get_information(driver,name):
 
             teacher = info[3].get_attribute("innerHTML").replace("&nbsp;", " ")
             room = info[4].get_attribute("innerHTML").replace("&nbsp;", " ")
-            title = cursus_name + '\n' + teacher + '\n' + room
+            title = course_name + '\n' + teacher + '\n' + room
 
-            output[name][cursus_name].append({'title':title,'start':start,'end':end}) 
+            output[name][course_name].append({'title':title,'start':start,'end':end}) 
 
 options = Options()
 options.headless = True
