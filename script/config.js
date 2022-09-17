@@ -33,7 +33,6 @@ function parse_event(events){
 				localStorage.setItem(id,false);
 				check_stored = false;
 			}
-			console.log(check_stored );
 			checkbox_input.checked = check_stored;
 
 			var label = document.createElement("label");
