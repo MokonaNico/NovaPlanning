@@ -1,2 +1,3 @@
 scraping/geckodriver.log
+geckodriver.log
 scraping/__pycache__/*
