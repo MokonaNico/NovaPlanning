@@ -1,20 +1,18 @@
 !async function(){
     await fetch('./events.json')
         .then((response) => response.json())
-        .then(events => {
-            accept = ["AudioProces","Calcul.et complexité"];
-            e = [];
-
-            for (const [key, value] of Object.entries(events)) {
-                for (const [key2, value2] of Object.entries(value)) {
-                    if(accept.includes(key2)){
-                        for (var i = 0; i < value2.length; i++) { 
-                            e = e.concat(value2)
-                        }
+        .then(data => {
+            var events = []
+            for (const [cursus, courses] of Object.entries(data)) {
+                for (const [course, course_events] of Object.entries(courses)) {
+                    var stored = JSON.parse(localStorage.getItem(cursus+'_'+course));
+                    if (stored == null) continue;
+                    if (stored){
+                        events = events.concat(course_events)
                     }
                 }
             }
-            calendar(e);
+            calendar(events);
         })
         .catch(error => {
             console.error(error);
@@ -30,7 +28,8 @@ function calendar(events) {
         defaultAllDay: false,
         displayEventEnd: true,
         events: events,
-        eventDisplay: 'block'
+        eventDisplay: 'block',
+        height: 'auto'
     });
     calendar.render();
 };
