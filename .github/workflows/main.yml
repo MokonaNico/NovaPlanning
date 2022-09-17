@@ -11,7 +11,7 @@ jobs:
       - name: Checking out repo
         uses: actions/checkout@v2
         with:
-          ref: some-branch
+          ref: action
       - name: Setting up Python
         uses: actions/setup-python@v2
         with:
