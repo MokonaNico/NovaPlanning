@@ -1,7 +1,8 @@
 name: Run Scraper
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "*/20 * * * *"
 
 jobs:
   scrape:
@@ -9,6 +10,8 @@ jobs:
     steps:
       - name: Checking out repo
         uses: actions/checkout@v2
+        with:
+          ref: some-branch
       - name: Setting up Python
         uses: actions/setup-python@v2
         with:
