@@ -2,3 +2,25 @@
   font-size: 3em;
   text-transform: capitalize;
 }
+
+.fc {
+  font-family: "Verdana";
+}
+
+.fc-event-time {
+  background-color: #215a91;
+  border-bottom: solid 1px;
+}
+
+.fc-direction-ltr .fc-daygrid-event .fc-event-time {
+  margin-right: 0px;
+}
+
+.fc .fc-daygrid-event {
+  margin-top: 2px;
+}
+
+.fc-daygrid-block-event .fc-event-time, .fc-daygrid-block-event .fc-event-title {
+  padding: 2px;
+  text-align: center;
+}
