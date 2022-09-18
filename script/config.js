@@ -20,13 +20,15 @@ function parse_event(events){
 		document.body.appendChild(table);
 
 		for (const [course, ignore] of Object.entries(courses)) {
-			var id = cursus + "_" + course
+			var div = document.createElement("div");
+			div.className = "checkbox-line";
+			var id = cursus + "_" + course;
 			var row = document.createElement("tr");
 			var checkbox_container = document.createElement("td");
 			var checkbox_input = document.createElement("input");
-			checkbox_input.id = id
-			checkbox_input.type = "checkbox"
-			checkbox_input.onclick = onCheck
+			checkbox_input.id = id;
+			checkbox_input.type = "checkbox";
+			checkbox_input.onclick = onCheck;
 
 			var check_stored = JSON.parse(localStorage.getItem(id));
 			if(check_stored == null){
@@ -36,11 +38,11 @@ function parse_event(events){
 			checkbox_input.checked = check_stored;
 
 			var label = document.createElement("label");
-			label.htmlFor  = id
+			label.htmlFor  = id;
 			label.innerHTML = course;
-
-			checkbox_container.appendChild(checkbox_input);
-			checkbox_container.appendChild(label);
+			div.appendChild(checkbox_input);
+			div.appendChild(label);
+			checkbox_container.appendChild(div);
 			row.appendChild(checkbox_container);
 			table.appendChild(row);
 		}
