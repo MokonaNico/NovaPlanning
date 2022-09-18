@@ -4,10 +4,15 @@
     <meta charset='utf-8' />
     <link href='fullcalendar/main.css' rel='stylesheet' />
     <script src='fullcalendar/main.js'></script>
+    <script type="text/javascript">
+        const ics_events = [];
+    </script>
     <script src='script/calendar.js'></script>
+    <script src="script/ics.js" type="module"></script>
   </head>
   <body>
     <a href="config.html">Aller au choix des cours</a>
+    <button onclick="download()">Download ICS</button>
     <div id='calendar'></div>
   </body>
 </html>
