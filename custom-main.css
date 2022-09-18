@@ -29,3 +29,7 @@
 .fc .fc-daygrid-day-number {
   font-size: 1.25em;
 }
+
+.fc .fc-button {
+  font-size: 2vw;
+}
