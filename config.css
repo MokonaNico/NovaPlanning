@@ -25,8 +25,8 @@ table {
 }
 
 input[type="checkbox"]{
-  width: min(20px, 0.5cm);
-  height: min(20px, 0.5cm);
+  width: 30px;
+  height: 30px;
 }
 
 label {
