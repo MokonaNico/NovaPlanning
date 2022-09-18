@@ -31,5 +31,5 @@
 }
 
 .fc .fc-button {
-  font-size: 2vw;
+  font-size: min(2vw, 1.25em);
 }
