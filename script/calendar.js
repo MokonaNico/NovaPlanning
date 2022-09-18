@@ -20,6 +20,7 @@
 }();
 
 function calendar(events) {
+    console.log(events);
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
         locale: 'fr',
@@ -47,8 +48,7 @@ function calendar(events) {
             start: 'myCustomButton',
             center: 'title',
             end: 'today prev,next',
-        },
-        
+        }
     });
     calendar.render();
 };
