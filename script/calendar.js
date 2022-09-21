@@ -52,16 +52,23 @@ function calendar(events) {
             year: 'numeric'
         },
         customButtons: {
-            myCustomButton: {
+            select: {
                 theme: 'true',
                 text: 'Sélection des cours',
                 click: function() {
                     location.href = "config.html";
                 }
+            },
+            ics: {
+                theme: 'true',
+                text: 'ICS',
+                click: function() {
+                    download();
+                }
             }
         },
         headerToolbar: {
-            start: 'myCustomButton',
+            start: 'select ics',
             center: 'title',
             end: 'today prev,next',
         },
