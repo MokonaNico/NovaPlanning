@@ -2,10 +2,10 @@
     await fetch('./events.json')
         .then((response) => response.json())
         .then(data => {
-            var events = []
+            let events = []
             for (const [cursus, courses] of Object.entries(data)) {
                 for (const [course, course_events] of Object.entries(courses)) {
-                    var stored = JSON.parse(localStorage.getItem(cursus+'_'+course));
+                    let stored = JSON.parse(localStorage.getItem(cursus+'_'+course));
                     if (stored == null) continue;
                     if (stored){
                         events = events.concat(course_events)
@@ -13,6 +13,23 @@
                 }
             }
             calendar(events);
+
+            for (let event of events) {
+
+                let date = new Date(event['start'])
+                let start = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
+                date = new Date(event['end'])
+                let end = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
+
+                let title = event['title']
+
+                let ics_event = {
+                    title,
+                    start,
+                    end,
+                }
+                ics_events.push(ics_event)
+            }
         })
         .catch(error => {
             console.error(error);
@@ -20,8 +37,8 @@
 }();
 
 function calendar(events) {
-    var calendarEl = document.getElementById('calendar');
-    var calendar = new FullCalendar.Calendar(calendarEl, {
+    let calendarEl = document.getElementById('calendar');
+    let calendar = new FullCalendar.Calendar(calendarEl, {
         locale: 'fr',
         initialView: 'dayGridMonth',
         handleWindowResize: true,
@@ -51,4 +68,4 @@ function calendar(events) {
         fixedWeekCount: false
     });
     calendar.render();
-};
+}
