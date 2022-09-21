@@ -8,6 +8,9 @@
                     let stored = JSON.parse(localStorage.getItem(cursus+'_'+course));
                     if (stored == null) continue;
                     if (stored){
+                        course_events.forEach(function(item){
+                            item.title = item.title.replaceAll("\n","\n\n")
+                        });
                         events = events.concat(course_events)
                     }
                 }

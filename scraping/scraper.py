@@ -14,7 +14,7 @@ import os
 
 from course_info import course_info
 
-WAITING_TIME = 2
+WAITING_TIME = 5
 output = {}
 
 def move_to_start_position(driver):
@@ -72,7 +72,7 @@ def get_information(driver,name):
 
             teacher = info[3].get_attribute("innerHTML").replace("&nbsp;", " ")
             room = info[4].get_attribute("innerHTML").replace("&nbsp;", " ")
-            title = course_name + '\n\n' + teacher + '\n\n' + room
+            title = course_name + '\n' + teacher + '\n' + room
 
             output[name][course_name].append({'title':title,'start':start,'end':end}) 
 
@@ -106,6 +106,5 @@ move_down(driver,62)
 time.sleep(WAITING_TIME)
 get_information(driver,"MASTER")
 
-os.remove("events.json")
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(output, indent=4))
