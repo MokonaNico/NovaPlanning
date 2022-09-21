@@ -4,7 +4,7 @@
 }
 
 .fc {
-  font-family: "Verdana";
+  font-family: "Verdana", serif;
 }
 
 .fc-event-time {
@@ -19,6 +19,14 @@
 
 .fc .fc-daygrid-event {
   margin-top: 2px;
+}
+
+.fc-event-title{
+   white-space:break-spaces;
+}
+
+.fc-h-event .fc-event-main-frame {
+  display: block;
 }
 
 .fc-daygrid-block-event .fc-event-time, .fc-daygrid-block-event .fc-event-title {
