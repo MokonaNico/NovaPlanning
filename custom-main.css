@@ -1,0 +1,35 @@
+.fc .fc-toolbar-title {
+  font-size: 3em;
+  text-transform: capitalize;
+}
+
+.fc {
+  font-family: "Verdana";
+}
+
+.fc-event-time {
+  background-color: #215a91;
+  border-bottom: solid 1px;
+  text-align: center;
+}
+
+.fc-direction-ltr .fc-daygrid-event .fc-event-time {
+  margin-right: 0px;
+}
+
+.fc .fc-daygrid-event {
+  margin-top: 2px;
+}
+
+.fc-daygrid-block-event .fc-event-time, .fc-daygrid-block-event .fc-event-title {
+  padding-top: 2px;
+  padding-bottom: 4px;
+}
+
+.fc .fc-daygrid-day-number {
+  font-size: 1.25em;
+}
+
+.fc .fc-button {
+  font-size: min(2vw, 1.25em);
+}

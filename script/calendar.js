@@ -46,7 +46,26 @@ function calendar(events) {
         displayEventEnd: true,
         events: events,
         eventDisplay: 'block',
-        height: 'auto'
+        height: 'auto',
+        titleFormat: {
+            month: 'long',
+            year: 'numeric'
+        },
+        customButtons: {
+            myCustomButton: {
+                theme: 'true',
+                text: 'Sélection des cours',
+                click: function() {
+                    location.href = "config.html";
+                }
+            }
+        },
+        headerToolbar: {
+            start: 'myCustomButton',
+            center: 'title',
+            end: 'today prev,next',
+        },
+        fixedWeekCount: false
     });
     calendar.render();
 }
