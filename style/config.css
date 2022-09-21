@@ -25,8 +25,8 @@ table {
 }
 
 input[type="checkbox"]{
-  width: 30px;
-  height: 30px;
+  width: 27px;
+  height: 27px;
 }
 
 label {
@@ -37,4 +37,9 @@ label {
 .checkbox-line {
 	display: flex;
 	align-items: center;
+}
+
+h1 {
+	display: inline-block;
+	padding: 0 1em 0 0;
 }

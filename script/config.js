@@ -11,70 +11,68 @@
 
 function parse_event(events){
 	for (const [cursus, courses] of Object.entries(events)) {
+		var title_box = document.createElement("div");
+		document.body.appendChild(title_box);
+
 		// Loop for each cursus
 		var title = document.createElement("h1");
 		title.innerHTML = cursus;
-		document.body.appendChild(title);
+		title_box.appendChild(title);
+		
+		var checkall = createRowDiv(cursus,"Tout sélectionner",onCheckAll,"")
+		title_box.appendChild(checkall.children[0]);
+		title_box.appendChild(checkall.children[0]);
 
+		
 		var table = document.createElement("table");
 		document.body.appendChild(table);
 
-		var div = document.createElement("div");
-		div.className = "checkbox-line";
-
-		var row = document.createElement("tr");
-		var checkbox_container = document.createElement("td");
-		var checkall = document.createElement("input");
-		checkall.type = "checkbox";
-		checkall.id = cursus;
-		checkall.onclick = onCheckAll;
-
-		var check_stored = JSON.parse(localStorage.getItem(cursus));
-		if(check_stored == null){
-			localStorage.setItem(cursus, false);
-			check_stored = false;
-		}
-		checkall.checked = check_stored;
-
-		var label = document.createElement("label");
-		label.innerHTML = "Tout sélectionner";
-
-		div.appendChild(checkall);
-		div.appendChild(label);
-		checkbox_container.appendChild(div);
-		row.appendChild(checkbox_container);
-		table.appendChild(row);
+		//var row = createRow(cursus,"Tout sélectionner",onCheckAll,"")
+		//table.appendChild(row);
 
 		for (const [course, ignore] of Object.entries(courses)) {
-			var div = document.createElement("div");
-			div.className = "checkbox-line";
-			var id = cursus + "_" + course;
-			var row = document.createElement("tr");
-			var checkbox_container = document.createElement("td");
-			var checkbox_input = document.createElement("input");
-			checkbox_input.id = id;
-			checkbox_input.type = "checkbox";
-			checkbox_input.onclick = onCheck;
-			checkbox_input.name = cursus;
-
-			var check_stored = JSON.parse(localStorage.getItem(id));
-			if(check_stored == null){
-				localStorage.setItem(id,false);
-				check_stored = false;
-			}
-			checkbox_input.checked = check_stored;
-
-			var label = document.createElement("label");
-			label.htmlFor  = id;
-			label.innerHTML = course;
-
-			div.appendChild(checkbox_input);
-			div.appendChild(label);
-			checkbox_container.appendChild(div);
-			row.appendChild(checkbox_container);
+			var row = createRow(cursus + "_" + course,course,onCheck,cursus)
 			table.appendChild(row);
 		}
 	}
+}
+
+function createRow(id,text,onclick,name){
+	var row = document.createElement("tr");
+
+	var checkbox_container = document.createElement("td");
+	row.appendChild(checkbox_container);
+
+	var div = createRowDiv(id,text,onclick,name);
+	checkbox_container.appendChild(div);
+
+	return row;
+}
+
+function createRowDiv(id,text,onclick,name){
+	var div = document.createElement("div");
+	div.className = "checkbox-line";
+	
+	var checkbox_input = document.createElement("input");
+	checkbox_input.id = id;
+	checkbox_input.type = "checkbox";
+	checkbox_input.onclick = onclick;
+	checkbox_input.name = name;
+	div.appendChild(checkbox_input);
+
+	var label = document.createElement("label");
+	label.htmlFor  = id;
+	label.innerHTML = text;
+	div.appendChild(label);
+
+	var check_stored = JSON.parse(localStorage.getItem(id));
+	if(check_stored == null){
+		localStorage.setItem(id, false);
+		check_stored = false;
+	}
+	checkbox_input.checked = check_stored;
+
+	return div;
 }
 
 function onCheckAll(e) {
@@ -89,5 +87,4 @@ function onCheckAll(e) {
 
 function onCheck(e) {        
 	localStorage.setItem(e.target.id,document.getElementById(e.target.id).checked);
-	console.log(document.getElementById(e.target.id).checked);
 }
