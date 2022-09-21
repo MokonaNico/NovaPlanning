@@ -44,6 +44,7 @@ function calendar(events) {
     let calendar = new FullCalendar.Calendar(calendarEl, {
         locale: 'fr',
         initialView: 'dayGridWeek',
+        firstDay: 1,
         handleWindowResize: true,
         defaultAllDay: false,
         displayEventEnd: true,
