@@ -43,7 +43,7 @@ function calendar(events) {
     let calendarEl = document.getElementById('calendar');
     let calendar = new FullCalendar.Calendar(calendarEl, {
         locale: 'fr',
-        initialView: 'dayGridMonth',
+        initialView: 'dayGridWeek',
         handleWindowResize: true,
         defaultAllDay: false,
         displayEventEnd: true,
