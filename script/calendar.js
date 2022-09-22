@@ -43,14 +43,16 @@ function calendar(events) {
     let calendarEl = document.getElementById('calendar');
     let calendar = new FullCalendar.Calendar(calendarEl, {
         locale: 'fr',
-        initialView: 'dayGridWeek',
+        initialView: 'timeGridWeek',
+        slotMinTime:"08:00:00",
+        slotMaxTime:"21:00:00",
+        expandRows: true,
         firstDay: 1,
         handleWindowResize: true,
         defaultAllDay: false,
         displayEventEnd: true,
         events: events,
         eventDisplay: 'block',
-        height: 'auto',
         titleFormat: {
             month: 'long',
             year: 'numeric'
