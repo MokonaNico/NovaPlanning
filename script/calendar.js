@@ -42,11 +42,14 @@
 function calendar(events) {
     let calendarEl = document.getElementById('calendar');
     let calendar = new FullCalendar.Calendar(calendarEl, {
+        eventMinHeight:20,
         locale: 'fr',
         initialView: 'timeGridWeek',
         slotMinTime:"08:00:00",
         slotMaxTime:"21:00:00",
         expandRows: true,
+        allDaySlot:false,
+        nowIndicator:true,
         firstDay: 1,
         handleWindowResize: true,
         defaultAllDay: false,
@@ -74,7 +77,7 @@ function calendar(events) {
         headerToolbar: {
             start: 'select ics',
             center: 'title',
-            end: 'today prev,next',
+            end: 'today prev,next timeGridWeek,dayGridMonth',
         },
         fixedWeekCount: false
     });
