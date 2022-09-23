@@ -12,6 +12,7 @@
                     }
                 }
             }
+            console.log(events);
             calendar(events);
         })
         .catch(error => {

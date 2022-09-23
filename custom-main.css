@@ -7,9 +7,9 @@
   font-family: "Verdana";
 }
 
-.fc-event-time {
+.fc .fc-event-time {
   background-color: #215a91;
-  border-bottom: solid 1px;
+  border-bottom: solid 2px;
   text-align: center;
 }
 
@@ -21,9 +21,9 @@
   margin-top: 2px;
 }
 
-.fc-daygrid-block-event .fc-event-time, .fc-daygrid-block-event .fc-event-title {
+.fc .fc-daygrid-block-event .fc-event-time, .fc-daygrid-block-event .fc-event-title {
   padding-top: 2px;
-  padding-bottom: 4px;
+  padding-bottom: 2px;
 }
 
 .fc .fc-daygrid-day-number {
@@ -32,4 +32,16 @@
 
 .fc .fc-button {
   font-size: min(2vw, 1.25em);
+}
+
+.fc .fc-daygrid-day-top {
+  border-bottom: solid 1px #ddd;
+}
+
+.fc .fc-day-other .fc-daygrid-day-top a {
+  opacity: 0.3;
+}
+
+.fc .fc-day-other .fc-daygrid-day-top {
+  opacity: 1;
 }

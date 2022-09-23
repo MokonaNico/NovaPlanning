@@ -14,7 +14,7 @@ import os
 
 from course_info import course_info
 
-WAITING_TIME = 2
+WAITING_TIME = 1
 output = {}
 
 def move_to_start_position(driver):
