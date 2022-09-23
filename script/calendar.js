@@ -46,6 +46,7 @@ function calendar(events) {
         initialView: 'timeGridWeek',
         slotMinTime:"08:00:00",
         slotMaxTime:"21:00:00",
+        slotEventOverlap:false,
         expandRows: true,
         firstDay: 1,
         handleWindowResize: true,
