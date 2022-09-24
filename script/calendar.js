@@ -90,7 +90,7 @@ function calendar(events) {
         fixedWeekCount: false,
         eventDidMount: function(info) {
           var tooltip = new Tooltip(info.el, {
-            title: info.event.title.replaceAll("\n\n","<br/>"),
+            title: info.event.title.replaceAll("\n\n","<br/><br/>"),
             placement: 'top',
             trigger: 'hover',   
             container: 'body',
