@@ -86,7 +86,16 @@ function calendar(events) {
             center: 'title',
             end: 'today prev,next timeGridWeek,dayGridMonth',
         },
-        fixedWeekCount: false
+        fixedWeekCount: false,
+        eventDidMount: function(info) {
+          var tooltip = new Tooltip(info.el, {
+            title: info.event.title.replaceAll("\n\n","<br/>"),
+            placement: 'top',
+            trigger: 'hover',   
+            container: 'body',
+            html: true
+          });
+        },
     });
     calendar.render();
 }
