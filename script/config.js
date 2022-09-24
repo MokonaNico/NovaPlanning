@@ -72,13 +72,20 @@ function onCheckAll(e) {
     const isCheck = document.getElementById(e.target.id).checked;
     const checkboxes = document.getElementsByName(e.target.id);
     for (const checkbox of checkboxes) {
-        checkbox.checked = isCheck;
-        toggle_course(checkbox.id, !isCheck);
+        if(isCheck && !checkbox.checked){
+            checkbox.checked = true;
+            toggle_course(checkbox.id);
+        }
+        else if (!isCheck && checkbox.checked){
+            checkbox.checked = false;
+            toggle_course(checkbox.id);
+        }
     }
     toggle_course(e.target.id);
 }
 
 function onCheck(e) {
+    const isCheck = document.getElementById(e.target.id).checked;
     toggle_course(e.target.id);
 }
 

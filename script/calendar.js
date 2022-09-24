@@ -7,12 +7,14 @@
             let spliced = key.split('_')
             let cursus = spliced[0]
             let course = spliced[1]
-            let course_events = events_fetch[cursus][course]
-
-            course_events.forEach((item)=>{
-                item.title = item.title.replaceAll("\n","\n\n");
-            });
-            events = events.concat(course_events)
+            
+            if (course){
+                let course_events = events_fetch[cursus][course]
+                course_events.forEach((item)=>{
+                    item.title = item.title.replaceAll("\n","\n\n");
+                });
+                events = events.concat(course_events)
+            }
         }
 
         calendar(events);
