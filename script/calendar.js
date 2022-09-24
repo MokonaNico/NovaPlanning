@@ -2,12 +2,16 @@
     fetch_events().then((events_fetch)=> {
         let events = []
 
+
         for (let [key,value] of Object.entries(localStorage) ){
+            if(value != ""){
+                localStorage.removeItem(key)
+            }
+
             let spliced = key.split('_')
             let cursus = spliced[0]
             let course = spliced[1]
-
-            if(!course || value != "") continue;
+            if(!course) continue;
             
             let course_events = events_fetch[cursus][course]
             course_events.forEach((item)=>{
