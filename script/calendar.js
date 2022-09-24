@@ -4,7 +4,7 @@
 
 
         for (let [key,value] of Object.entries(localStorage) ){
-            if(value != ""){
+            if(value !== ""){
                 localStorage.removeItem(key)
             }
 
