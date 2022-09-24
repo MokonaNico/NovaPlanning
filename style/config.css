@@ -7,7 +7,7 @@ button {
 	background-color: #2C3E50;
 	padding: 0.4em 0.65em;
 	color: white;
-	font-size: min(2vw, 1.25em);
+	font-size: min(2vw, 1em);
 	border-radius: 0.25em;
 	text-align: center;
 	vertical-align: middle;

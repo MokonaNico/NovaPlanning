@@ -6,5 +6,3 @@ async function fetch_events(){
         .then((response) => response.json())
 
 }
-
-
