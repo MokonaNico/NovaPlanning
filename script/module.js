@@ -7,7 +7,7 @@ window.download_ics = () => {
         console.log(error)
 
     } else {
-        let out = value.toString().replaceAll("\r\n\n\t","")
+        let out = value.toString().replaceAll("\r\n\t","")
         let blob = new Blob([out], {type: "text/plain;charset=utf-8"});
         FileSaver.saveAs(blob, "cours.ics");
     }
