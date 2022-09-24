@@ -532,7 +532,7 @@
                 "end": "2022-10-03T10:15:00"
             },
             {
-                "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie, NiGA.VanGogh",
                 "start": "2022-10-10T08:15:00",
                 "end": "2022-10-10T10:15:00"
             },
@@ -842,9 +842,9 @@
                 "end": "2022-10-11T15:30:00"
             },
             {
-                "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - G\u00e9om\u00e9trie dans le plan et l'espace\nMme BRIDOUX\nNiGA.Gutenberg",
-                "start": "2022-10-17T15:45:00",
-                "end": "2022-10-17T17:45:00"
+                "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - G\u00e9om\u00e9trie dans le plan et l'espace\nMme BRIDOUX\nNiGA.Curie",
+                "start": "2022-10-17T13:30:00",
+                "end": "2022-10-17T15:30:00"
             },
             {
                 "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - G\u00e9om\u00e9trie dans le plan et l'espace\nMme BRIDOUX\nNiGA.Gutenberg",
@@ -879,9 +879,9 @@
                 "end": "2022-10-10T15:30:00"
             },
             {
-                "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - In\u00e9galit\u00e9s\nMr TROESTLER\nNiGA.Curie",
-                "start": "2022-10-17T13:30:00",
-                "end": "2022-10-17T15:30:00"
+                "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - In\u00e9galit\u00e9s\nMr TROESTLER\nNiGA.Gutenberg",
+                "start": "2022-10-17T15:45:00",
+                "end": "2022-10-17T17:45:00"
             },
             {
                 "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - In\u00e9galit\u00e9s\nMr TROESTLER\nNiGA.Gutenberg",
@@ -1386,6 +1386,11 @@
                 "end": "2022-09-22T17:45:00"
             },
             {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Plisnier",
+                "start": "2022-09-23T12:30:00",
+                "end": "2022-09-23T13:30:00"
+            },
+            {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
                 "start": "2022-09-28T10:30:00",
                 "end": "2022-09-28T12:30:00"
@@ -1401,9 +1406,19 @@
                 "end": "2022-09-29T17:45:00"
             },
             {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Plisnier",
+                "start": "2022-09-30T12:30:00",
+                "end": "2022-09-30T13:30:00"
+            },
+            {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiV\u00e9sale.LaFontaine",
                 "start": "2022-10-04T10:30:00",
                 "end": "2022-10-04T12:30:00"
+            },
+            {
+                "title": "Programmation et algorithmique I\nMr DUBRULLE\nNiB6.124",
+                "start": "2022-10-04T15:45:00",
+                "end": "2022-10-04T17:45:00"
             },
             {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
@@ -1416,6 +1431,11 @@
                 "end": "2022-10-06T17:45:00"
             },
             {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiB6.124",
+                "start": "2022-10-07T12:30:00",
+                "end": "2022-10-07T13:30:00"
+            },
+            {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiV\u00e9sale.LaFontaine",
                 "start": "2022-10-11T10:30:00",
                 "end": "2022-10-11T12:15:00"
@@ -1424,6 +1444,11 @@
                 "title": "Programmation et algorithmique I\nMr BONTE, Mr DUBRULLE, Mr HAUWEELE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                 "start": "2022-10-13T13:30:00",
                 "end": "2022-10-13T17:45:00"
+            },
+            {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiB6.124",
+                "start": "2022-10-14T12:30:00",
+                "end": "2022-10-14T13:30:00"
             },
             {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiV\u00e9sale.LaFontaine",
@@ -1436,9 +1461,19 @@
                 "end": "2022-10-19T12:30:00"
             },
             {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiB6.124",
+                "start": "2022-10-19T15:45:00",
+                "end": "2022-10-19T17:45:00"
+            },
+            {
                 "title": "Programmation et algorithmique I\nMr BONTE, Mr DUBRULLE, Mr HAUWEELE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                 "start": "2022-10-20T13:30:00",
                 "end": "2022-10-20T17:45:00"
+            },
+            {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Plisnier",
+                "start": "2022-10-21T12:30:00",
+                "end": "2022-10-21T13:30:00"
             },
             {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
@@ -1451,6 +1486,11 @@
                 "end": "2022-10-27T17:45:00"
             },
             {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Plisnier",
+                "start": "2022-10-28T12:30:00",
+                "end": "2022-10-28T13:30:00"
+            },
+            {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
                 "start": "2022-11-02T10:30:00",
                 "end": "2022-11-02T12:30:00"
@@ -1459,6 +1499,11 @@
                 "title": "Programmation et algorithmique I\nMr BONTE, Mr DUBRULLE, Mr HAUWEELE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                 "start": "2022-11-03T13:30:00",
                 "end": "2022-11-03T17:45:00"
+            },
+            {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Plisnier",
+                "start": "2022-11-04T12:30:00",
+                "end": "2022-11-04T13:30:00"
             },
             {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
@@ -1471,6 +1516,11 @@
                 "end": "2022-11-10T10:15:00"
             },
             {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Plisnier",
+                "start": "2022-11-11T12:30:00",
+                "end": "2022-11-11T13:30:00"
+            },
+            {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
                 "start": "2022-11-16T10:30:00",
                 "end": "2022-11-16T12:30:00"
@@ -1479,6 +1529,11 @@
                 "title": "Programmation et algorithmique I\nMr BONTE, Mr DUBRULLE, Mr HAUWEELE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                 "start": "2022-11-17T13:30:00",
                 "end": "2022-11-17T17:45:00"
+            },
+            {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiB6.124",
+                "start": "2022-11-18T12:30:00",
+                "end": "2022-11-18T13:30:00"
             },
             {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
@@ -1491,6 +1546,11 @@
                 "end": "2022-11-24T17:45:00"
             },
             {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiB6.124",
+                "start": "2022-11-25T12:30:00",
+                "end": "2022-11-25T13:30:00"
+            },
+            {
                 "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
                 "start": "2022-11-30T10:30:00",
                 "end": "2022-11-30T12:30:00"
@@ -1501,9 +1561,19 @@
                 "end": "2022-12-01T17:45:00"
             },
             {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Plisnier",
+                "start": "2022-12-02T12:30:00",
+                "end": "2022-12-02T13:30:00"
+            },
+            {
                 "title": "Programmation et algorithmique I\nMr BONTE, Mr DUBRULLE, Mr HAUWEELE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                 "start": "2022-12-08T13:30:00",
                 "end": "2022-12-08T17:45:00"
+            },
+            {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiB6.124",
+                "start": "2022-12-09T12:30:00",
+                "end": "2022-12-09T13:30:00"
             },
             {
                 "title": "Programmation et algorithmique I\nMr BONTE, Mr DUBRULLE, Mr HAUWEELE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
@@ -1511,9 +1581,19 @@
                 "end": "2022-12-15T17:45:00"
             },
             {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Plisnier",
+                "start": "2022-12-16T12:30:00",
+                "end": "2022-12-16T13:30:00"
+            },
+            {
                 "title": "Programmation et algorithmique I\nMr BONTE, Mr DUBRULLE, Mr HAUWEELE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                 "start": "2022-12-22T13:30:00",
                 "end": "2022-12-22T17:45:00"
+            },
+            {
+                "title": "Programmation et algorithmique I\nMr MELOT\nNiB6.124",
+                "start": "2022-12-23T12:30:00",
+                "end": "2022-12-23T13:30:00"
             }
         ],
         "Projet d'informatique": [
@@ -2157,122 +2237,122 @@
                 "end": "2022-09-19T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-09-26T08:15:00",
                 "end": "2022-09-26T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-09-26T10:30:00",
                 "end": "2022-09-26T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-10-03T08:15:00",
                 "end": "2022-10-03T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-10-03T10:30:00",
                 "end": "2022-10-03T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-10-10T08:15:00",
                 "end": "2022-10-10T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-10-10T10:30:00",
                 "end": "2022-10-10T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-10-17T08:15:00",
                 "end": "2022-10-17T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-10-17T10:30:00",
                 "end": "2022-10-17T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-10-24T08:15:00",
                 "end": "2022-10-24T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-10-24T10:30:00",
                 "end": "2022-10-24T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-11-07T08:15:00",
                 "end": "2022-11-07T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-11-07T10:30:00",
                 "end": "2022-11-07T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-11-14T08:15:00",
                 "end": "2022-11-14T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-11-14T10:30:00",
                 "end": "2022-11-14T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-11-21T08:15:00",
                 "end": "2022-11-21T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-11-21T10:30:00",
                 "end": "2022-11-21T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-11-28T08:15:00",
                 "end": "2022-11-28T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-11-28T10:30:00",
                 "end": "2022-11-28T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-12-05T08:15:00",
                 "end": "2022-12-05T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Turing, NiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose",
                 "start": "2022-12-05T10:30:00",
                 "end": "2022-12-05T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-12-12T08:15:00",
                 "end": "2022-12-12T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-12-12T10:30:00",
                 "end": "2022-12-12T12:30:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.Russel",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                 "start": "2022-12-19T08:15:00",
                 "end": "2022-12-19T10:15:00"
             },
             {
-                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Turing, NiGA.Pascal, NiB4.Penrose, NiV\u00e9sale.030, NiB6.18",
+                "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiGA.Pascal, NiB4.Penrose",
                 "start": "2022-12-19T10:30:00",
                 "end": "2022-12-19T12:30:00"
             },
@@ -2435,7 +2515,7 @@
         ],
         " Nombres complexes": [
             {
-                "title": " Nombres complexes\nMr RAMLOT, Mr MICHAUX\n",
+                "title": " Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiGA.Plisnier",
                 "start": "2022-09-23T10:30:00",
                 "end": "2022-09-23T12:30:00"
             },
@@ -2538,16 +2618,6 @@
             },
             {
                 "title": "Optimisation\nM. GOBERT, Mr GILLIS\nHo.23",
-                "start": "2022-10-27T13:30:00",
-                "end": "2022-10-27T15:30:00"
-            },
-            {
-                "title": "Optimisation\nM. GOBERT, Mr GILLIS\nHo.23",
-                "start": "2022-10-27T15:45:00",
-                "end": "2022-10-27T17:45:00"
-            },
-            {
-                "title": "Optimisation\nM. GOBERT, Mr GILLIS\nHo.23",
                 "start": "2022-11-10T13:30:00",
                 "end": "2022-11-10T15:30:00"
             },
@@ -2555,6 +2625,16 @@
                 "title": "Optimisation\nM. GOBERT, Mr GILLIS\nHo.23",
                 "start": "2022-11-10T15:45:00",
                 "end": "2022-11-10T17:45:00"
+            },
+            {
+                "title": "Optimisation\nM. GOBERT, Mr GILLIS\nHo.23",
+                "start": "2022-11-17T15:45:00",
+                "end": "2022-11-17T17:45:00"
+            },
+            {
+                "title": "Optimisation\nM. GOBERT, Mr GILLIS\nHo.23",
+                "start": "2022-11-25T10:30:00",
+                "end": "2022-11-25T12:30:00"
             }
         ],
         "Probabilit\u00e9s": [
@@ -3397,52 +3477,52 @@
                 "end": "2022-09-19T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.0A07",
                 "start": "2022-09-21T10:30:00",
                 "end": "2022-09-21T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-09-28T10:30:00",
                 "end": "2022-09-28T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB4.Penrose",
                 "start": "2022-10-05T10:30:00",
                 "end": "2022-10-05T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Mirzakhani",
                 "start": "2022-10-19T10:30:00",
-                "end": "2022-10-19T12:30:00"
+                "end": "2022-10-19T12:00:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB4.233",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-10-24T10:30:00",
                 "end": "2022-10-24T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E10",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-10-31T10:30:00",
                 "end": "2022-10-31T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-11-07T10:30:00",
                 "end": "2022-11-07T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E11",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
                 "start": "2022-11-17T10:30:00",
                 "end": "2022-11-17T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E11",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-11-24T10:30:00",
                 "end": "2022-11-24T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-11-28T08:15:00",
                 "end": "2022-11-28T10:15:00"
             },
@@ -3452,7 +3532,7 @@
                 "end": "2022-12-01T12:15:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-12-05T08:15:00",
                 "end": "2022-12-05T10:15:00"
             },
@@ -3467,12 +3547,12 @@
                 "end": "2022-12-15T12:15:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-12-16T08:15:00",
                 "end": "2022-12-16T10:15:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-12-19T08:15:00",
                 "end": "2022-12-19T10:15:00"
             },
@@ -3484,39 +3564,39 @@
         ],
         "English for scientific communication Partie 1": [
             {
-                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.18, NiB6.211",
+                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.211, NiB6.18",
                 "start": "2022-10-07T08:15:00",
                 "end": "2022-10-07T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.18, NiB6.211",
+                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.211, NiB6.18",
                 "start": "2022-10-14T08:15:00",
                 "end": "2022-10-14T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.18, NiB6.211",
+                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.211, NiB6.18",
                 "start": "2022-10-21T08:15:00",
                 "end": "2022-10-21T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.18, NiB6.211",
+                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.211, NiB6.18",
                 "start": "2022-10-28T08:15:00",
                 "end": "2022-10-28T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.18, NiB6.211",
+                "title": "English for scientific communication Partie 1\nMme GIANCOLA\nNiP.0E10, NiB6.211, NiB6.18",
                 "start": "2022-11-04T08:15:00",
                 "end": "2022-11-04T10:15:00"
             }
         ],
         "English for scientific communication Partie 2": [
             {
-                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.0E10, NiP.3E20",
+                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.3E20, NiP.0E10",
                 "start": "2023-02-10T08:15:00",
                 "end": "2023-02-10T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.0E10, NiP.3E20",
+                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.3E20, NiP.0E10",
                 "start": "2023-02-17T08:15:00",
                 "end": "2023-02-17T10:15:00"
             },
@@ -3531,32 +3611,32 @@
                 "end": "2023-03-03T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.0E10, NiP.3E20",
+                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.3E20, NiP.0E10",
                 "start": "2023-03-10T08:15:00",
                 "end": "2023-03-10T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.0E10, NiP.3E20",
+                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.3E20, NiP.0E10",
                 "start": "2023-03-17T08:15:00",
                 "end": "2023-03-17T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.0E10, NiP.3E20",
+                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.3E20, NiP.0E10",
                 "start": "2023-03-24T08:15:00",
                 "end": "2023-03-24T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 2\nMr DEVILEZ, Mme GIANCOLA\nNiP.0E10, NiP.3E20",
+                "title": "English for scientific communication Partie 2\nMme GIANCOLA, Mr DEVILEZ\nNiP.3E20, NiP.0E10",
                 "start": "2023-03-31T08:15:00",
                 "end": "2023-03-31T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.0E10, NiP.3E20",
+                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.3E20, NiP.0E10",
                 "start": "2023-04-28T08:15:00",
                 "end": "2023-04-28T10:15:00"
             },
             {
-                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.0E10, NiP.3E20",
+                "title": "English for scientific communication Partie 2\nMme GIANCOLA\nNiP.3E20, NiP.0E10",
                 "start": "2023-05-05T08:15:00",
                 "end": "2023-05-05T10:15:00"
             }
@@ -3871,6 +3951,11 @@
                 "end": "2022-10-31T15:30:00"
             },
             {
+                "title": "Introduction \u00e0 la comptabilit\u00e9\nMr VANDERSTEENE\nWa.203P",
+                "start": "2022-11-02T08:15:00",
+                "end": "2022-11-02T10:15:00"
+            },
+            {
                 "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nNiV\u00e9sale.020",
                 "start": "2022-11-07T13:30:00",
                 "end": "2022-11-07T15:30:00"
@@ -3881,6 +3966,11 @@
                 "end": "2022-11-14T15:30:00"
             },
             {
+                "title": "Introduction \u00e0 la comptabilit\u00e9\nMr VANDERSTEENE\nWa.203P",
+                "start": "2022-11-16T08:15:00",
+                "end": "2022-11-16T10:15:00"
+            },
+            {
                 "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nNiV\u00e9sale.020",
                 "start": "2022-11-21T13:30:00",
                 "end": "2022-11-21T15:30:00"
@@ -3889,6 +3979,11 @@
                 "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nNiV\u00e9sale.025",
                 "start": "2022-11-28T13:30:00",
                 "end": "2022-11-28T15:30:00"
+            },
+            {
+                "title": "Introduction \u00e0 la comptabilit\u00e9\nMr VANDERSTEENE\nWa.203P",
+                "start": "2022-11-30T08:15:00",
+                "end": "2022-11-30T10:15:00"
             },
             {
                 "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nNiV\u00e9sale.025",
@@ -3904,6 +3999,11 @@
                 "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nNiV\u00e9sale.025",
                 "start": "2022-12-12T13:30:00",
                 "end": "2022-12-12T15:30:00"
+            },
+            {
+                "title": "Introduction \u00e0 la comptabilit\u00e9\nMr VANDERSTEENE\nWa.203P",
+                "start": "2022-12-14T08:15:00",
+                "end": "2022-12-14T10:15:00"
             },
             {
                 "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nNiV\u00e9sale.025",
@@ -4748,7 +4848,7 @@
                 "end": "2022-10-26T17:45:00"
             },
             {
-                "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
+                "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
                 "start": "2022-11-02T13:30:00",
                 "end": "2022-11-02T17:30:00"
             },
@@ -4758,7 +4858,7 @@
                 "end": "2022-11-08T10:15:00"
             },
             {
-                "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
+                "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
                 "start": "2022-11-09T13:30:00",
                 "end": "2022-11-09T17:30:00"
             },
@@ -4768,7 +4868,7 @@
                 "end": "2022-11-15T10:15:00"
             },
             {
-                "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
+                "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
                 "start": "2022-11-16T13:30:00",
                 "end": "2022-11-16T17:30:00"
             },
@@ -4778,7 +4878,7 @@
                 "end": "2022-11-22T10:15:00"
             },
             {
-                "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
+                "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
                 "start": "2022-11-23T13:30:00",
                 "end": "2022-11-23T17:30:00"
             },
@@ -4877,57 +4977,57 @@
         ],
         "Aide multicrit\u00e8re \u00e0 la d\u00e9cision": [
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-02-07T15:45:00",
                 "end": "2023-02-07T17:45:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-02-14T15:45:00",
                 "end": "2023-02-14T17:45:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-02-21T15:45:00",
                 "end": "2023-02-21T17:45:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-02-27T08:15:00",
                 "end": "2023-02-27T10:15:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-03-06T08:15:00",
                 "end": "2023-03-06T10:15:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-03-13T08:15:00",
                 "end": "2023-03-13T10:15:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-03-27T08:15:00",
                 "end": "2023-03-27T10:15:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-04-17T08:15:00",
                 "end": "2023-04-17T10:15:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-04-24T08:15:00",
                 "end": "2023-04-24T10:15:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-05-08T08:15:00",
                 "end": "2023-05-08T10:15:00"
             },
             {
-                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr FORTEMPS, Mr MANDERLIER\nHo.05",
+                "title": "Aide multicrit\u00e8re \u00e0 la d\u00e9cision\nMr MANDERLIER, Mr FORTEMPS\nHo.05",
                 "start": "2023-05-15T08:15:00",
                 "end": "2023-05-15T10:15:00"
             }
@@ -5283,11 +5383,11 @@
             },
             {
                 "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiB4.119",
-                "start": "2022-10-24T10:30:00",
-                "end": "2022-10-24T12:30:00"
+                "start": "2022-10-24T08:15:00",
+                "end": "2022-10-24T10:15:00"
             },
             {
-                "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\n",
+                "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiP.0A07",
                 "start": "2022-10-26T08:15:00",
                 "end": "2022-10-26T10:15:00"
             },
@@ -5298,8 +5398,8 @@
             },
             {
                 "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiB4.119",
-                "start": "2022-10-31T10:30:00",
-                "end": "2022-10-31T12:30:00"
+                "start": "2022-10-31T08:15:00",
+                "end": "2022-10-31T10:15:00"
             },
             {
                 "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiP.0A11",
@@ -5312,14 +5412,14 @@
                 "end": "2022-11-04T15:30:00"
             },
             {
-                "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiB6.211",
-                "start": "2022-11-07T10:30:00",
-                "end": "2022-11-07T12:30:00"
-            },
-            {
                 "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiP.0A11",
                 "start": "2022-11-09T08:15:00",
                 "end": "2022-11-09T10:15:00"
+            },
+            {
+                "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiP.0A07",
+                "start": "2022-11-10T08:15:00",
+                "end": "2022-11-10T10:15:00"
             },
             {
                 "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiB4.120",
@@ -5759,52 +5859,52 @@
                 "end": "2022-09-19T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.0A07",
                 "start": "2022-09-21T10:30:00",
                 "end": "2022-09-21T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-09-28T10:30:00",
                 "end": "2022-09-28T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB4.Penrose",
                 "start": "2022-10-05T10:30:00",
                 "end": "2022-10-05T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Mirzakhani",
                 "start": "2022-10-19T10:30:00",
-                "end": "2022-10-19T12:30:00"
+                "end": "2022-10-19T12:00:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB4.233",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-10-24T10:30:00",
                 "end": "2022-10-24T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E10",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-10-31T10:30:00",
                 "end": "2022-10-31T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-11-07T10:30:00",
                 "end": "2022-11-07T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E11",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
                 "start": "2022-11-17T10:30:00",
                 "end": "2022-11-17T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E11",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-11-24T10:30:00",
                 "end": "2022-11-24T12:30:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-11-28T08:15:00",
                 "end": "2022-11-28T10:15:00"
             },
@@ -5814,7 +5914,7 @@
                 "end": "2022-12-01T12:15:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-12-05T08:15:00",
                 "end": "2022-12-05T10:15:00"
             },
@@ -5829,12 +5929,12 @@
                 "end": "2022-12-15T12:15:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-12-16T08:15:00",
                 "end": "2022-12-16T10:15:00"
             },
             {
-                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                 "start": "2022-12-19T08:15:00",
                 "end": "2022-12-19T10:15:00"
             },
@@ -6042,47 +6142,47 @@
         ],
         "Ecologie industrielle et territoriale": [
             {
-                "title": "Ecologie industrielle et territoriale\nMme MORONCINI\nWa.Hotyat",
+                "title": "Ecologie industrielle et territoriale\nMr DUPONT\nWa.Hotyat",
                 "start": "2022-09-26T08:15:00",
                 "end": "2022-09-26T10:15:00"
             },
             {
-                "title": "Ecologie industrielle et territoriale\nMme MORONCINI\nWa.Hotyat",
+                "title": "Ecologie industrielle et territoriale\nMr DUPONT\nWa.Hotyat",
                 "start": "2022-10-03T08:15:00",
                 "end": "2022-10-03T10:15:00"
             },
             {
-                "title": "Ecologie industrielle et territoriale\nMme MORONCINI\nWa.Hotyat",
+                "title": "Ecologie industrielle et territoriale\nMr DUPONT\nWa.Hotyat",
                 "start": "2022-10-10T08:15:00",
                 "end": "2022-10-10T10:15:00"
             },
             {
-                "title": "Ecologie industrielle et territoriale\nMme MORONCINI\nWa.Hotyat",
+                "title": "Ecologie industrielle et territoriale\nMr DUPONT\nWa.Hotyat",
                 "start": "2022-10-17T08:15:00",
                 "end": "2022-10-17T10:15:00"
             },
             {
-                "title": "Ecologie industrielle et territoriale\nMme MORONCINI\nWa.Hotyat",
+                "title": "Ecologie industrielle et territoriale\nMr DUPONT\nWa.Hotyat",
                 "start": "2022-10-31T08:15:00",
                 "end": "2022-10-31T10:15:00"
             },
             {
-                "title": "Ecologie industrielle et territoriale\nMme MORONCINI\nWa.Hotyat",
+                "title": "Ecologie industrielle et territoriale\nMr DUPONT\nWa.Hotyat",
                 "start": "2022-11-07T08:15:00",
                 "end": "2022-11-07T10:15:00"
             },
             {
-                "title": "Ecologie industrielle et territoriale\nMme MORONCINI\nWa.Hotyat",
+                "title": "Ecologie industrielle et territoriale\nMr DUPONT\nWa.Hotyat",
                 "start": "2022-11-14T08:15:00",
                 "end": "2022-11-14T10:15:00"
             },
             {
-                "title": "Ecologie industrielle et territoriale\nMme MORONCINI\nWa.Hotyat",
+                "title": "Ecologie industrielle et territoriale\nMr DUPONT\nWa.Hotyat",
                 "start": "2022-11-21T08:15:00",
                 "end": "2022-11-21T10:15:00"
             },
             {
-                "title": "Ecologie industrielle et territoriale\nMme MORONCINI\nWa.Hotyat",
+                "title": "Ecologie industrielle et territoriale\nMr DUPONT\nWa.Hotyat",
                 "start": "2022-11-28T08:15:00",
                 "end": "2022-11-28T10:15:00"
             }
@@ -6319,11 +6419,6 @@
                 "title": "Graphes et intelligence artificielle\nMr MELOT\nNiB6.18",
                 "start": "2022-09-22T10:30:00",
                 "end": "2022-09-22T12:30:00"
-            },
-            {
-                "title": "Graphes et intelligence artificielle\nMr MELOT\nNiB6.18",
-                "start": "2022-09-29T10:30:00",
-                "end": "2022-09-29T12:30:00"
             },
             {
                 "title": "Graphes et intelligence artificielle\nMr MELOT\nNiP.3E20",
@@ -7386,7 +7481,7 @@
         ],
         "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications": [
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiP.3E11",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiP.3E11",
                 "start": "2023-02-06T10:30:00",
                 "end": "2023-02-06T12:30:00"
             },
@@ -7396,12 +7491,12 @@
                 "end": "2023-02-07T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiP.3E20",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiP.3E20",
                 "start": "2023-02-10T10:30:00",
                 "end": "2023-02-10T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiP.3E11",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiP.3E11",
                 "start": "2023-02-13T10:30:00",
                 "end": "2023-02-13T12:30:00"
             },
@@ -7411,12 +7506,12 @@
                 "end": "2023-02-14T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiP.3E20",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiP.3E20",
                 "start": "2023-02-17T10:30:00",
                 "end": "2023-02-17T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiB4.119",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiB4.119",
                 "start": "2023-02-20T10:30:00",
                 "end": "2023-02-20T12:30:00"
             },
@@ -7426,7 +7521,7 @@
                 "end": "2023-02-21T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiP.0A11",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiP.0A11",
                 "start": "2023-02-24T10:30:00",
                 "end": "2023-02-24T12:30:00"
             },
@@ -7436,12 +7531,12 @@
                 "end": "2023-02-28T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiP.3E20",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiP.3E20",
                 "start": "2023-03-03T10:30:00",
                 "end": "2023-03-03T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiB4.233",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiB4.233",
                 "start": "2023-03-06T10:30:00",
                 "end": "2023-03-06T12:30:00"
             },
@@ -7451,7 +7546,7 @@
                 "end": "2023-03-07T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiP.0A11",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiP.0A11",
                 "start": "2023-03-10T10:30:00",
                 "end": "2023-03-10T12:30:00"
             },
@@ -7471,7 +7566,7 @@
                 "end": "2023-03-21T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiP.3E11",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiP.3E11",
                 "start": "2023-03-24T10:30:00",
                 "end": "2023-03-24T12:30:00"
             },
@@ -7481,7 +7576,7 @@
                 "end": "2023-03-28T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiB4.Penrose",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiB4.Penrose",
                 "start": "2023-03-31T10:30:00",
                 "end": "2023-03-31T12:30:00"
             },
@@ -7491,7 +7586,7 @@
                 "end": "2023-04-18T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiB4.119",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiB4.119",
                 "start": "2023-04-21T10:30:00",
                 "end": "2023-04-21T12:30:00"
             },
@@ -7501,7 +7596,7 @@
                 "end": "2023-04-25T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiB4.120",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiB4.120",
                 "start": "2023-04-28T10:30:00",
                 "end": "2023-04-28T12:30:00"
             },
@@ -7511,7 +7606,7 @@
                 "end": "2023-05-02T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiB4.120",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiB4.120",
                 "start": "2023-05-05T10:30:00",
                 "end": "2023-05-05T12:30:00"
             },
@@ -7521,17 +7616,17 @@
                 "end": "2023-05-09T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiB4.120",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiB4.120",
                 "start": "2023-05-12T10:30:00",
                 "end": "2023-05-12T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiB4.119",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiB4.119",
                 "start": "2023-05-16T10:30:00",
                 "end": "2023-05-16T12:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR, Mme CAPON\nNiB4.119",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : applications\nMr RANDOUR\nNiB4.119",
                 "start": "2023-05-19T10:30:00",
                 "end": "2023-05-19T12:30:00"
             }
@@ -7553,7 +7648,7 @@
                 "end": "2022-09-29T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E11",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E11",
                 "start": "2022-10-04T10:30:00",
                 "end": "2022-10-04T12:30:00"
             },
@@ -7563,7 +7658,7 @@
                 "end": "2022-10-06T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E11",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E11",
                 "start": "2022-10-11T10:30:00",
                 "end": "2022-10-11T12:30:00"
             },
@@ -7573,7 +7668,7 @@
                 "end": "2022-10-13T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E10",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E10",
                 "start": "2022-10-18T10:30:00",
                 "end": "2022-10-18T12:30:00"
             },
@@ -7583,7 +7678,7 @@
                 "end": "2022-10-20T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E10",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E10",
                 "start": "2022-10-25T10:30:00",
                 "end": "2022-10-25T12:30:00"
             },
@@ -7598,7 +7693,7 @@
                 "end": "2022-11-03T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E11",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E11",
                 "start": "2022-11-08T10:30:00",
                 "end": "2022-11-08T12:30:00"
             },
@@ -7608,7 +7703,7 @@
                 "end": "2022-11-10T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E11",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E11",
                 "start": "2022-11-15T10:30:00",
                 "end": "2022-11-15T12:30:00"
             },
@@ -7618,7 +7713,7 @@
                 "end": "2022-11-17T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E10",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E10",
                 "start": "2022-11-22T10:30:00",
                 "end": "2022-11-22T12:30:00"
             },
@@ -7628,7 +7723,7 @@
                 "end": "2022-11-24T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E10",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E10",
                 "start": "2022-11-29T10:30:00",
                 "end": "2022-11-29T12:30:00"
             },
@@ -7638,7 +7733,7 @@
                 "end": "2022-12-01T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E10",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E10",
                 "start": "2022-12-06T10:30:00",
                 "end": "2022-12-06T12:30:00"
             },
@@ -7648,7 +7743,7 @@
                 "end": "2022-12-08T15:30:00"
             },
             {
-                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR, Mme CAPON\nNiP.3E20",
+                "title": "M\u00e9thodes formelles pour la conception de syst\u00e8mes : fondements\nMr RANDOUR\nNiP.3E20",
                 "start": "2022-12-13T10:30:00",
                 "end": "2022-12-13T12:30:00"
             },
@@ -8097,52 +8192,52 @@
         ],
         "Philosophie des sciences": [
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.120",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.120",
                 "start": "2022-09-23T10:30:00",
                 "end": "2022-09-23T12:30:00"
             },
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.120",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.120",
                 "start": "2022-09-30T10:30:00",
                 "end": "2022-09-30T12:30:00"
             },
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.120",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.120",
                 "start": "2022-10-07T10:30:00",
                 "end": "2022-10-07T12:30:00"
             },
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.120",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.120",
                 "start": "2022-10-14T10:30:00",
                 "end": "2022-10-14T12:30:00"
             },
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.120",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.120",
                 "start": "2022-10-21T10:30:00",
                 "end": "2022-10-21T12:30:00"
             },
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.120",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.120",
                 "start": "2022-10-28T10:30:00",
                 "end": "2022-10-28T12:30:00"
             },
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.120",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.120",
                 "start": "2022-11-04T10:30:00",
                 "end": "2022-11-04T12:30:00"
             },
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.120",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.120",
                 "start": "2022-11-18T10:30:00",
                 "end": "2022-11-18T12:30:00"
             },
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.120",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.120",
                 "start": "2022-11-25T10:30:00",
                 "end": "2022-11-25T12:30:00"
             },
             {
-                "title": "Philosophie des sciences\nMr BRANDELET, Mme STAQUET\nNiB4.119",
+                "title": "Philosophie des sciences\nMme STAQUET, Mr BRANDELET\nNiB4.119",
                 "start": "2022-12-02T10:30:00",
                 "end": "2022-12-02T12:30:00"
             }
@@ -8611,32 +8706,32 @@
         ],
         "S\u00e9minaire Intelligence Artificielle": [
             {
-                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr MANNEBACK, Mr DUTOIT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr DUTOIT, Mr MANNEBACK, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                 "start": "2022-10-18T18:00:00",
                 "end": "2022-10-18T20:00:00"
             },
             {
-                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr MANNEBACK, Mr DUTOIT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr DUTOIT, Mr MANNEBACK, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                 "start": "2022-10-25T18:00:00",
                 "end": "2022-10-25T20:00:00"
             },
             {
-                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr MANNEBACK, Mr DUTOIT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr DUTOIT, Mr MANNEBACK, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                 "start": "2022-11-08T18:00:00",
                 "end": "2022-11-08T20:00:00"
             },
             {
-                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr MANNEBACK, Mr DUTOIT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr DUTOIT, Mr MANNEBACK, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                 "start": "2022-11-15T18:00:00",
                 "end": "2022-11-15T20:00:00"
             },
             {
-                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr MANNEBACK, Mr DUTOIT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr DUTOIT, Mr MANNEBACK, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                 "start": "2022-11-22T18:00:00",
                 "end": "2022-11-22T20:00:00"
             },
             {
-                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr MANNEBACK, Mr DUTOIT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                "title": "S\u00e9minaire Intelligence Artificielle\nMr MENS, Mr DUTOIT, Mr MANNEBACK, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                 "start": "2022-11-29T18:00:00",
                 "end": "2022-11-29T20:00:00"
             }
@@ -8678,12 +8773,12 @@
                 "end": "2022-10-24T17:30:00"
             },
             {
-                "title": "Signal processing\nMr DELVIGNE, Mr DELBROUCK, Mr DUTOIT, Mr LA FISCA\nHo.23",
+                "title": "Signal processing\nMr LA FISCA, Mr DUTOIT, Mr DELVIGNE, Mr DELBROUCK\nHo.23",
                 "start": "2022-10-31T08:15:00",
                 "end": "2022-10-31T10:15:00"
             },
             {
-                "title": "Signal processing\nMr DELVIGNE, Mr DELBROUCK, Mr DUTOIT, Mr LA FISCA\nHo.23",
+                "title": "Signal processing\nMr LA FISCA, Mr DUTOIT, Mr DELVIGNE, Mr DELBROUCK\nHo.23",
                 "start": "2022-11-07T08:15:00",
                 "end": "2022-11-07T10:15:00"
             },
@@ -8723,12 +8818,12 @@
                 "end": "2022-12-05T17:30:00"
             },
             {
-                "title": "Signal processing\nMr DELVIGNE, Mr DELBROUCK, Mr LA FISCA\nHo.23",
+                "title": "Signal processing\nMr LA FISCA, Mr DELVIGNE, Mr DELBROUCK\nHo.23",
                 "start": "2022-12-13T08:15:00",
                 "end": "2022-12-13T10:15:00"
             },
             {
-                "title": "Signal processing\nMr DELVIGNE, Mr DELBROUCK, Mr LA FISCA\nHo.23",
+                "title": "Signal processing\nMr LA FISCA, Mr DELVIGNE, Mr DELBROUCK\nHo.23",
                 "start": "2022-12-20T08:15:00",
                 "end": "2022-12-20T10:15:00"
             }

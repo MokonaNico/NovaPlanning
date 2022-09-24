@@ -10,6 +10,7 @@ from datetime import datetime
 import dateparser
 import json
 import time
+import os
 
 from course_info import course_info
 

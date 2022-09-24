@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html lang='en'>
     <head>
+        <title>Nova Planing</title>
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
         <meta charset='utf-8'/>
+        <link href='style/config.css' rel='stylesheet' />
+        <script src='script/main.js'></script>
+        <script src='script/module.js' type="module"></script>
         <script src='script/config.js'></script>
     </head>
     <body>
-        <a href="index.html">Retour au calendrier</a>
+        <a href="index.html"><button>Retour</button></a>
+        <button onclick="download_list()">Download</button>
+        <button onclick="upload_list()">Upload</button>
+        <input type="file" id="myFile">
+
     </body>
 </html>

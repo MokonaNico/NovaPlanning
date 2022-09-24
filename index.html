@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html lang='en'>
   <head>
+    <title>Nova Planing</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
     <meta charset='utf-8' />
-    <link href='fullcalendar/main.css' rel='stylesheet' />
-    <script src='fullcalendar/main.js'></script>
-    <script type="text/javascript">
-        const ics_events = [];
-    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <script src='https://unpkg.com/tooltip.js/dist/umd/tooltip.min.js'></script>
+    <link href='https://cdn.jsdelivr.net/npm/fullcalendar/main.css' rel='stylesheet' />
+    <link href='style/custom-main.css' rel='stylesheet' />
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar/main.js'></script>
+    
+    <script src="script/main.js"></script>
     <script src='script/calendar.js'></script>
-    <script src="script/ics.js" type="module"></script>
+
+    <script src="script/module.js" type="module"></script>
+    
   </head>
   <body>
-    <a href="config.html">Aller au choix des cours</a>
-    <button onclick="download()">Download ICS</button>
     <div id='calendar'></div>
   </body>
 </html>

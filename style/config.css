@@ -1,0 +1,45 @@
+body {
+	font-family: "Verdana", serif;
+}
+
+button {
+	margin-top: 7px;
+	background-color: #2C3E50;
+	padding: 0.4em 0.65em;
+	color: white;
+	font-size: min(2vw, 1em);
+	border-radius: 0.25em;
+	text-align: center;
+	vertical-align: middle;
+	border: 1px solid transparent;
+	line-height: 1.5;
+	display: inline-block;
+}
+
+button:hover {
+	background-color: #1e2b37;
+}
+
+table {
+	margin-left: 0.5cm;
+}
+
+input[type="checkbox"]{
+  width: 27px;
+  height: 27px;
+}
+
+label {
+	padding-left: 5px;
+	font-size: 1.25em;
+}
+
+.checkbox-line {
+	display: flex;
+	align-items: center;
+}
+
+h1 {
+	display: inline-block;
+	padding: 0 1em 0 0;
+}

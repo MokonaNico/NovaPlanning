@@ -1,52 +1,99 @@
-!async function(){
-    await fetch('./events.json')
-        .then((response) => response.json())
-        .then(events => {
-        	parse_event(events);
-        })
+!async function () {
+    fetch_events().then(events => {
+        parse_event(events);
+    })
         .catch(error => {
             console.error(error);
         });
 }();
 
-function parse_event(events){
-	for (const [cursus, courses] of Object.entries(events)) {
-		// Loop for each cursus
-		var title = document.createElement("h1");
-		title.innerHTML = cursus;
-		document.body.appendChild(title);
+function parse_event(events) {
+    for (const [cursus, courses] of Object.entries(events)) {
+        const title_box = document.createElement("div");
+        document.body.appendChild(title_box);
 
-		var table = document.createElement("table");
-		document.body.appendChild(table);
+        // Loop for each cursus
+        const title = document.createElement("h1");
+        title.innerHTML = cursus;
+        title_box.appendChild(title);
 
-		for (const [course, ignore] of Object.entries(courses)) {
-			var id = cursus + "_" + course
-			var row = document.createElement("tr");
-			var checkbox_container = document.createElement("td");
-			var checkbox_input = document.createElement("input");
-			checkbox_input.id = id
-			checkbox_input.type = "checkbox"
-			checkbox_input.onclick = onCheck
+        const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "");
+        title_box.appendChild(checkall.children[0]);
+        title_box.appendChild(checkall.children[0]);
 
-			var check_stored = JSON.parse(localStorage.getItem(id));
-			if(check_stored == null){
-				localStorage.setItem(id,false);
-				check_stored = false;
-			}
-			checkbox_input.checked = check_stored;
 
-			var label = document.createElement("label");
-			label.htmlFor  = id
-			label.innerHTML = course;
+        const table = document.createElement("table");
+        document.body.appendChild(table);
 
-			checkbox_container.appendChild(checkbox_input);
-			checkbox_container.appendChild(label);
-			row.appendChild(checkbox_container);
-			table.appendChild(row);
-		}
-	}
+        //var row = createRow(cursus,"Tout sélectionner",onCheckAll,"")
+        //table.appendChild(row);
+
+        for (const [course, _] of Object.entries(courses)) {
+            const row = createRow(cursus + "_" + course, course, onCheck, cursus);
+            table.appendChild(row);
+        }
+    }
 }
 
-function onCheck(e) {        
-	localStorage.setItem(e.target.id,document.getElementById(e.target.id).checked);
+function createRow(id, text, onclick, name) {
+    const row = document.createElement("tr");
+
+    const checkbox_container = document.createElement("td");
+    row.appendChild(checkbox_container);
+
+    const div = createRowDiv(id, text, onclick, name);
+    checkbox_container.appendChild(div);
+
+    return row;
+}
+
+function createRowDiv(id, text, onclick, name) {
+    const div = document.createElement("div");
+    div.className = "checkbox-line";
+
+    const checkbox_input = document.createElement("input");
+    checkbox_input.id = id;
+    checkbox_input.type = "checkbox";
+    checkbox_input.onclick = onclick;
+    checkbox_input.name = name;
+    div.appendChild(checkbox_input);
+
+    const label = document.createElement("label");
+    label.htmlFor = id;
+    label.innerHTML = text;
+    div.appendChild(label);
+
+    checkbox_input.checked = localStorage.getItem(id) === "";
+
+    return div;
+}
+
+function onCheckAll(e) {
+    const isCheck = document.getElementById(e.target.id).checked;
+    const checkboxes = document.getElementsByName(e.target.id);
+    for (const checkbox of checkboxes) {
+        if(isCheck && !checkbox.checked){
+            checkbox.checked = true;
+            toggle_course(checkbox.id);
+        }
+        else if (!isCheck && checkbox.checked){
+            checkbox.checked = false;
+            toggle_course(checkbox.id);
+        }
+    }
+    toggle_course(e.target.id);
+}
+
+function onCheck(e) {
+    const isCheck = document.getElementById(e.target.id).checked;
+    toggle_course(e.target.id);
+}
+
+function toggle_course(id, remove=false){
+    if (remove || localStorage.getItem(id) === ""){
+        localStorage.removeItem(id)
+    }else {
+        localStorage.setItem(id,"")
+
+    }
 }
