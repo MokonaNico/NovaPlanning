@@ -63,6 +63,7 @@ function calendar(events) {
         displayEventEnd: true,
         events: events,
         eventDisplay: 'block',
+        height: 'auto',
         titleFormat: {
             month: 'long',
             year: 'numeric'

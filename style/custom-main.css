@@ -1,5 +1,5 @@
 .fc .fc-toolbar-title {
-  font-size: 3em;
+  font-size: 2em;
   text-transform: capitalize;
 }
 
@@ -45,7 +45,11 @@
 }
 
 .fc .fc-button {
-  font-size: min(2vw, 1.25em);
+  font-size: min(1.5vw, 1.25em);
+}
+
+.fc-timegrid-slot {
+    height: 3.3vh !important
 }
 
 .popper,
