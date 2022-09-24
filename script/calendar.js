@@ -1,19 +1,25 @@
 !async function(){
     fetch_events().then((events_fetch)=> {
         let events = []
-        for (const [cursus, courses] of Object.entries(events_fetch)) {
-            for (const [course, course_events] of Object.entries(courses)) {
-                let stored = JSON.parse(localStorage.getItem(cursus+'_'+course));
-                if (stored == null) continue;
-                if (stored){
-                    course_events.forEach((item)=>{
-                        item.title = item.title.replaceAll("\n","\n\n");
-                        item.location = "test"
-                    });
-                    events = events.concat(course_events)
-                }
+
+
+        for (let [key,value] of Object.entries(localStorage) ){
+            if(value != ""){
+                localStorage.removeItem(key)
             }
+
+            let spliced = key.split('_')
+            let cursus = spliced[0]
+            let course = spliced[1]
+            if(!course) continue;
+            
+            let course_events = events_fetch[cursus][course]
+            course_events.forEach((item)=>{
+                item.title = item.title.replaceAll("\n","\n\n");
+            });
+            events = events.concat(course_events)
         }
+
         calendar(events);
 
         for (let event of events) {
@@ -42,12 +48,15 @@
 function calendar(events) {
     let calendarEl = document.getElementById('calendar');
     let calendar = new FullCalendar.Calendar(calendarEl, {
+        eventMinHeight:20,
         locale: 'fr',
         initialView: 'timeGridWeek',
         slotMinTime:"08:00:00",
         slotMaxTime:"21:00:00",
         slotEventOverlap:false,
         expandRows: true,
+        allDaySlot:false,
+        nowIndicator:true,
         firstDay: 1,
         handleWindowResize: true,
         defaultAllDay: false,
@@ -69,13 +78,13 @@ function calendar(events) {
             ics: {
                 theme: 'true',
                 text: 'ICS',
-                click: () => download(),
-            }
+                click: () => download_ics(),
+            },
         },
         headerToolbar: {
             start: 'select ics',
             center: 'title',
-            end: 'today prev,next',
+            end: 'today prev,next timeGridWeek,dayGridMonth',
         },
         fixedWeekCount: false
     });
