@@ -58,7 +58,8 @@ def get_information(driver,name):
 
     for i in range(1,len(tables),2):
         course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td')[1].text
-        course_name = course_info[course_name][0]
+        if course_name in course_info:
+            course_name = course_info[course_name][0]
         if course_name not in output[name]:
             output[name][course_name] = []
         list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
