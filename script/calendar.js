@@ -12,6 +12,14 @@
             let cursus = spliced[0]
             let course = spliced[1]
             if(!course) continue;
+
+            // If the key in the local storage begin with only BAB1,BAB2,BAB3 or MASTER
+            // Then it's an old key when there was only INFO, so we can just add INFO in front of the cursus
+            if(["BAB1","BAB2","BAB3","MASTER"].includes(cursus)){
+                localStorage.removeItem(key)
+                localStorage.setItem(cursus+" INFO_"+course,"")
+                cursus = cursus+" INFO"
+            }
             
             let course_events = events_fetch[cursus][course]
             course_events.forEach((event)=>{
