@@ -64,7 +64,6 @@ def get_information(driver,name, course_id):
     for i in range(1,len(tables),2):
         course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td')[1].text
         if course_name in course:
-            print(course_name)
             course_name = course[course_name][0]
         if course_name not in output[name]:
             output[name][course_name] = []
@@ -82,14 +81,6 @@ def get_information(driver,name, course_id):
             title = course_name + '\n' + teacher + '\n' + room
 
             output[name][course_name].append({'title':title,'start':start,'end':end})
-    print(f"""
-
-    end ===============================================
-
-    """)
-
-    print(output)
-
 
             
 options = Options()
@@ -136,9 +127,15 @@ get_information(driver,"BAB3 MATH", "MATH")
 time.sleep(WAITING_TIME)
 move_to_combo(driver)
 time.sleep(WAITING_TIME)
-move_down(driver,66)
+move_down(driver,61)
 time.sleep(WAITING_TIME)
 get_information(driver,"MASTER INFO", "INFO")
+time.sleep(WAITING_TIME)
+move_to_combo(driver)
+time.sleep(WAITING_TIME)
+move_down(driver,3)
+time.sleep(WAITING_TIME)
+get_information(driver,"MASTER MATH", "MATH")
 
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(output, indent=4))
