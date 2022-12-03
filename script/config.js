@@ -8,29 +8,37 @@
 }();
 
 function parse_event(events) {
-    for (const [cursus, courses] of Object.entries(events)) {
-        const title_box = document.createElement("div");
-        document.body.appendChild(title_box);
-
-        // Loop for each cursus
-        const title = document.createElement("h1");
-        title.innerHTML = cursus;
-        title_box.appendChild(title);
-
-        const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "");
-        title_box.appendChild(checkall.children[0]);
-        title_box.appendChild(checkall.children[0]);
+    for (const [option, cursus_list] of Object.entries(events)){
+        const button_course = document.createElement("button");
+        button_course.innerHTML = option;
+        button_course.id = option;
+        button_course.appendChild(document.getElementById("sbl-course"))
 
 
-        const table = document.createElement("table");
-        document.body.appendChild(table);
+        for (const [cursus, courses] of Object.entries(cursus_list)) {
+            const title_box = document.createElement("div");
+            document.body.appendChild(title_box);
 
-        //var row = createRow(cursus,"Tout sélectionner",onCheckAll,"")
-        //table.appendChild(row);
+            // Loop for each cursus
+            const title = document.createElement("h1");
+            title.innerHTML = cursus;
+            title_box.appendChild(title);
 
-        for (const [course, _] of Object.entries(courses)) {
-            const row = createRow(cursus + "_" + course, course, onCheck, cursus);
-            table.appendChild(row);
+            const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "");
+            title_box.appendChild(checkall.children[0]);
+            title_box.appendChild(checkall.children[0]);
+
+
+            const table = document.createElement("table");
+            document.body.appendChild(table);
+
+            //var row = createRow(cursus,"Tout sélectionner",onCheckAll,"")
+            //table.appendChild(row);
+
+            for (const [course, _] of Object.entries(courses)) {
+                const row = createRow(cursus + "_" + course, course, onCheck, cursus);
+                table.appendChild(row);
+            }
         }
     }
 }
@@ -47,10 +55,20 @@ function createRow(id, text, onclick, name) {
     return row;
 }
 
+function onClickScrollBarRoll() {
+    const x = document.getElementById("sbl-course");
+    if (x.style.display == "none") {
+        x.style.display = "flex";
+    } else {
+        x.style.display = "none";
+    }
+    
+}
+
 function createRowDiv(id, text, onclick, name) {
     const div = document.createElement("div");
     div.className = "checkbox-line";
-
+    
     const checkbox_input = document.createElement("input");
     checkbox_input.id = id;
     checkbox_input.type = "checkbox";

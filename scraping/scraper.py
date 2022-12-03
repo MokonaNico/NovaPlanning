@@ -1,3 +1,4 @@
+
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
@@ -55,8 +56,10 @@ def move_down(driver,n,begin_enter=False):
     action.perform()
 
 def get_information(driver,name, course_id):
-    output[name] = {}
-
+    if course_id not in output:
+        output[course_id] = {}
+    output[course_id][name] = {}
+        
     course = course_dict[course_id]
     
     tables = driver.find_elements(By.XPATH,'//table[@class="Texte CellulesVisible"]/tbody/tr')
@@ -65,8 +68,8 @@ def get_information(driver,name, course_id):
         course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td')[1].text
         if course_name in course:
             course_name = course[course_name][0]
-        if course_name not in output[name]:
-            output[name][course_name] = []
+        if course_name not in output[course_id][name]:
+            output[course_id][name][course_name] = []
         list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
         for cursus in list_cursus:
             info  = cursus.find_elements(By.XPATH,'./td')
@@ -80,7 +83,7 @@ def get_information(driver,name, course_id):
             room = info[4].get_attribute("innerHTML").replace("&nbsp;", " ")
             title = course_name + '\n' + teacher + '\n' + room
 
-            output[name][course_name].append({'title':title,'start':start,'end':end})
+            output[course_id][name][course_name].append({'title':title,'start':start,'end':end})
 
             
 options = Options()
