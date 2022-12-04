@@ -11,13 +11,23 @@ function parse_event(events) {
     for (const [option, cursus_list] of Object.entries(events)){
         const button_course = document.createElement("button");
         button_course.innerHTML = option;
-        button_course.id = option;
-        button_course.appendChild(document.getElementById("sbl-course"))
+        button_course.className = "buttonList";
+        button_course.onclick = onClickButtonList;
+        document.getElementById("sbl-course").appendChild(button_course)
 
+        const cursus_div = document.createElement("div");
+        cursus_div.id = option;
+        cursus_div.style.display= "none";
+        document.getElementById("cursus-content").appendChild(cursus_div);
 
         for (const [cursus, courses] of Object.entries(cursus_list)) {
+            const year_container = document.createElement("div");
+            cursus_div.appendChild(year_container);
+
+            
             const title_box = document.createElement("div");
-            document.body.appendChild(title_box);
+            title_box.className = "title-box";
+            year_container.appendChild(title_box);
 
             // Loop for each cursus
             const title = document.createElement("h1");
@@ -27,10 +37,17 @@ function parse_event(events) {
             const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "");
             title_box.appendChild(checkall.children[0]);
             title_box.appendChild(checkall.children[0]);
-
+            
+            const img = document.createElement("img");
+            img.src = "./arrow.png";
+            img.className = "arrow-img";
+            img.onclick = derollCourses;
+            title_box.appendChild(img);
 
             const table = document.createElement("table");
-            document.body.appendChild(table);
+            table.style.display = "none";
+            table.id = cursus;
+            year_container.appendChild(table);
 
             //var row = createRow(cursus,"Tout sélectionner",onCheckAll,"")
             //table.appendChild(row);
@@ -42,6 +59,19 @@ function parse_event(events) {
         }
     }
 }
+
+function derollCourses(e) {
+    element = e.target.parentElement.parentElement.lastChild;
+
+    if (element.style.display == "none") {
+        element.style.display = "inline";
+        e.target.src = "./arrow-close.png";
+    } else {
+        element.style.display = "none";
+        e.target.src = "./arrow.png";
+    }
+}
+
 
 function createRow(id, text, onclick, name) {
     const row = document.createElement("tr");
@@ -63,6 +93,17 @@ function onClickScrollBarRoll() {
         x.style.display = "none";
     }
     
+}
+
+function onClickButtonList(e) {
+    let cursus = document.getElementById("cursus-content").childNodes;
+
+    for (let i=1; i<cursus.length; i++) {
+        cursus[i].style.display = "none";
+    }
+
+    document.getElementById(e.target.innerHTML).style.display = "inline";
+    document.getElementById("scrlbtn").innerHTML = e.target.innerHTML;
 }
 
 function createRowDiv(id, text, onclick, name) {
@@ -113,5 +154,11 @@ function toggle_course(id, remove=false){
     }else {
         localStorage.setItem(id,"")
 
+    }
+}
+
+window.onclick = function(event) {
+    if (!event.target.matches('.scrollbtn')) {
+        document.getElementById("sbl-course").style.display = "none";
     }
 }

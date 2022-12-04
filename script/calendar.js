@@ -21,25 +21,31 @@
                 cursus = cursus+" INFO"
             }
             
-            let course_events = events_fetch[cursus][course]
-            course_events.forEach((event)=>{
-                let date = new Date(event.start)
-                let start = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
-                date = new Date(event.end)
-                let end = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
+            //for (const option in events_fetch) {
+            //    console.log(events_fetch[option][cursus][course]);
 
-                let title = event.title
+            for (let option in events_fetch) {
+                let course_events = events_fetch[option][cursus][course];
+                
+                course_events.forEach((event)=>{
+                    console.log(course)
+                    let date = new Date(event.start)
+                    let start = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
+                    date = new Date(event.end)
+                    let end = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
 
-                let ics_event = {
-                    title,
-                    start,
-                    end,
-                }
-                ics_events.push(ics_event)
+                    let title = event.title
 
+                    let ics_event = {
+                        title,
+                        start,
+                        end,
+                    }
+                    ics_events.push(ics_event)
 
-                event.title = event.title.replaceAll("\n","\n\n");
-            });
+                    event.title = event.title.replaceAll("\n","\n\n");
+                });
+            };
             events = events.concat(course_events)
         }
 
