@@ -12,6 +12,7 @@
             let cursus = spliced[0]
             let course = spliced[1]
             if(!course) continue;
+            option = cursus.split(' ')[1];
 
             // If the key in the local storage begin with only BAB1,BAB2,BAB3 or MASTER
             // Then it's an old key when there was only INFO, so we can just add INFO in front of the cursus
@@ -20,32 +21,26 @@
                 localStorage.setItem(cursus+" INFO_"+course,"")
                 cursus = cursus+" INFO"
             }
+            let course_events = events_fetch[option][cursus][course];
             
-            //for (const option in events_fetch) {
-            //    console.log(events_fetch[option][cursus][course]);
+            course_events.forEach((event)=>{
+                console.log(course)
+                let date = new Date(event.start)
+                let start = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
+                date = new Date(event.end)
+                let end = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
 
-            for (let option in events_fetch) {
-                let course_events = events_fetch[option][cursus][course];
-                
-                course_events.forEach((event)=>{
-                    console.log(course)
-                    let date = new Date(event.start)
-                    let start = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
-                    date = new Date(event.end)
-                    let end = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
+                let title = event.title
 
-                    let title = event.title
+                let ics_event = {
+                    title,
+                    start,
+                    end,
+                }
+                ics_events.push(ics_event)
 
-                    let ics_event = {
-                        title,
-                        start,
-                        end,
-                    }
-                    ics_events.push(ics_event)
-
-                    event.title = event.title.replaceAll("\n","\n\n");
-                });
-            };
+                event.title = event.title.replaceAll("\n","\n\n");
+            });
             events = events.concat(course_events)
         }
 

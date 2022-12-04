@@ -36,7 +36,7 @@ button:hover {
 }
 
 table {
-	margin-left: 0.5cm;
+	margin-left: 1cm;
 }
 
 input[type="checkbox"]{
@@ -71,6 +71,8 @@ h1 {
 }
 
 .arrow-img {
-    width : 40px;
-    height : 40px;
+    top: 5px;
+    width : 35px;
+    height : 35px;
+    position: relative;
 }

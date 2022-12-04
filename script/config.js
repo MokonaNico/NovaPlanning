@@ -29,6 +29,12 @@ function parse_event(events) {
             title_box.className = "title-box";
             year_container.appendChild(title_box);
 
+            const img = document.createElement("img");
+            img.src = "./arrow.png";
+            img.className = "arrow-img";
+            img.onclick = derollCourses;
+            title_box.appendChild(img);
+
             // Loop for each cursus
             const title = document.createElement("h1");
             title.innerHTML = cursus;
@@ -37,12 +43,6 @@ function parse_event(events) {
             const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "");
             title_box.appendChild(checkall.children[0]);
             title_box.appendChild(checkall.children[0]);
-            
-            const img = document.createElement("img");
-            img.src = "./arrow.png";
-            img.className = "arrow-img";
-            img.onclick = derollCourses;
-            title_box.appendChild(img);
 
             const table = document.createElement("table");
             table.style.display = "none";
