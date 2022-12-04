@@ -24,7 +24,6 @@
             let course_events = events_fetch[option][cursus][course];
             
             course_events.forEach((event)=>{
-                console.log(course)
                 let date = new Date(event.start)
                 let start = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
                 date = new Date(event.end)
