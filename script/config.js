@@ -38,6 +38,7 @@ function parse_event(events) {
             // Loop for each cursus
             const title = document.createElement("h1");
             title.innerHTML = cursus;
+            title.onclick = derollCourses;
             title_box.appendChild(title);
 
             const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "");
@@ -61,14 +62,14 @@ function parse_event(events) {
 }
 
 function derollCourses(e) {
-    element = e.target.parentElement.parentElement.lastChild;
-
-    if (element.style.display == "none") {
-        element.style.display = "inline";
-        e.target.src = "./arrow-close.png";
+    table = e.target.parentElement.parentElement.lastChild;
+    img = e.target.parentElement.firstChild;
+    if (table.style.display == "none") {
+        table.style.display = "inline";
+        img.src = "./arrow-close.png";
     } else {
-        element.style.display = "none";
-        e.target.src = "./arrow.png";
+        table.style.display = "none";
+        img.src = "./arrow.png";
     }
 }
 

@@ -2,3 +2,5 @@ scraping/geckodriver.log
 geckodriver.log
 scraping/__pycache__/*
 .idea
+package.json
+package-lock.json
