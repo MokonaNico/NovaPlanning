@@ -16,12 +16,27 @@ button {
 	display: inline-block;
 }
 
+.buttonList {
+    margin-top: 0px;
+    width: 150px;
+	background-color: #2C3E50;
+	padding: 0.4em 0.65em;
+	color: white;
+	font-size: min(2vw, 1em);
+	border-radius: 0em;
+	text-align: center;
+	vertical-align: middle;
+	border: 1px solid transparent;
+	line-height: 1.5;
+	display: inline-block;
+}
+
 button:hover {
 	background-color: #1e2b37;
 }
 
 table {
-	margin-left: 0.5cm;
+	margin-left: 1cm;
 }
 
 input[type="checkbox"]{
@@ -42,4 +57,24 @@ label {
 h1 {
 	display: inline-block;
 	padding: 0 1em 0 0;
+}
+
+.scrollbarlist {
+    position: absolute;
+    display : none;
+    flex-direction : column;
+    z-index: 10;
+}
+
+.scrollbtn {
+    width : 150px;
+    font-size : 15px;
+}
+
+.arrow-img {
+    top: 5px;
+    width : 35px;
+    height : 35px;
+    position: relative;
+    z-index: 5;
 }
