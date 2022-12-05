@@ -404,9 +404,9 @@
                     "end": "2022-12-07T12:30:00"
                 },
                 {
-                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX, Mr TROESTLER\nNiV\u00e9sale.LaFontaine",
-                    "start": "2022-12-08T10:30:00",
-                    "end": "2022-12-08T12:30:00"
+                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX, Mr TROESTLER\nNiGA.Plisnier",
+                    "start": "2022-12-08T08:15:00",
+                    "end": "2022-12-08T10:15:00"
                 },
                 {
                     "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiGA.Curie",
@@ -1569,7 +1569,7 @@
                     "end": "2022-11-09T12:30:00"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr MELOT, Mr DUBRULLE, Mr BONTE\nNiGA.Curie, NiV\u00e9sale.023",
+                    "title": "Programmation et algorithmique I\nMr DUBRULLE, Mr BONTE, Mr MELOT\nNiGA.Curie, NiV\u00e9sale.023",
                     "start": "2022-11-10T08:15:00",
                     "end": "2022-11-10T10:15:00"
                 },
@@ -1654,14 +1654,14 @@
                     "end": "2022-12-23T13:30:00"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr MELOT\nNiV\u00e9sale.023, NiV\u00e9sale.020, NiV\u00e9sale.LaFontaine",
+                    "title": "Programmation et algorithmique I\nMr MELOT\nNiV\u00e9sale.020, NiV\u00e9sale.023, NiV\u00e9sale.LaFontaine",
                     "start": "2023-01-18T08:30:00",
                     "end": "2023-01-18T12:30:00"
                 }
             ],
             "Projet d'informatique": [
                 {
-                    "title": "Projet d'informatique\nMr BONTE, Mr MELOT, Mr DUBRULLE, Mr HAUWEELE\nNiGA.Plisnier",
+                    "title": "Projet d'informatique\nMr BONTE, Mr DUBRULLE, Mr MELOT, Mr HAUWEELE\nNiGA.Plisnier",
                     "start": "2023-02-09T15:45:00",
                     "end": "2023-02-09T17:45:00"
                 },
@@ -10392,9 +10392,9 @@
                     "end": "2022-12-07T12:30:00"
                 },
                 {
-                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX, Mr TROESTLER\nNiV\u00e9sale.LaFontaine",
-                    "start": "2022-12-08T10:30:00",
-                    "end": "2022-12-08T12:30:00"
+                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX, Mr TROESTLER\nNiGA.Plisnier",
+                    "start": "2022-12-08T08:15:00",
+                    "end": "2022-12-08T10:15:00"
                 },
                 {
                     "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiGA.Curie",
@@ -10757,8 +10757,8 @@
                 },
                 {
                     "title": "Exercices de Calculus I\nMr LECOMTE\nNiB4.Penrose",
-                    "start": "2022-12-08T08:15:00",
-                    "end": "2022-12-08T10:15:00"
+                    "start": "2022-12-08T10:30:00",
+                    "end": "2022-12-08T12:30:00"
                 },
                 {
                     "title": "Exercices de Calculus I\nMr LECOMTE\nNiB4.Penrose",
