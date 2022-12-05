@@ -63,6 +63,7 @@ h1 {
     position: absolute;
     display : none;
     flex-direction : column;
+    z-index: 10;
 }
 
 .scrollbtn {
@@ -75,4 +76,5 @@ h1 {
     width : 35px;
     height : 35px;
     position: relative;
+    z-index: 5;
 }
