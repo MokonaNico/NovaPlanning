@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
@@ -20,6 +19,21 @@ course_dict = {"INFO": course_info, "MATH": course_math}
 
 WAITING_TIME = 5
 output = {}
+
+colorTab = {
+    "BLUE": "#5c98ff",
+    "RED": "#fc4747",
+    "CYAN": "#44fcdb",
+    "ORANGE": "#fca044",
+    "GREY": "#878787",
+    "GREEN": "#00ad3d"
+}
+
+def getColor(color):
+    if color in colorTab:
+        return colorTab[color]
+    else:
+        return "#0026ad"
 
 def move_to_start_position(driver):
     # Go into "Formations" tab
@@ -63,11 +77,13 @@ def get_information(driver,name, course_id):
     course = course_dict[course_id]
     
     tables = driver.find_elements(By.XPATH,'//table[@class="Texte CellulesVisible"]/tbody/tr')
+    color = getColor("")
 
     for i in range(1,len(tables),2):
         course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td')[1].text
         if course_name in course:
-            course_name = course[course_name][0]
+            course_name, color_ = course[course_name]
+            color = getColor(color_)
         if course_name not in output[course_id][name]:
             output[course_id][name][course_name] = []
         list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
@@ -83,7 +99,7 @@ def get_information(driver,name, course_id):
             room = info[4].get_attribute("innerHTML").replace("&nbsp;", " ")
             title = course_name + '\n' + teacher + '\n' + room
 
-            output[course_id][name][course_name].append({'title':title,'start':start,'end':end})
+            output[course_id][name][course_name].append({'title':title,'start':start,'end':end, 'color': color})
 
             
 options = Options()

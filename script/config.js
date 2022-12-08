@@ -41,7 +41,7 @@ function parse_event(events) {
             title.onclick = derollCourses;
             title_box.appendChild(title);
 
-            const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "");
+            const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "", true);
             title_box.appendChild(checkall.children[0]);
             title_box.appendChild(checkall.children[0]);
 
@@ -55,6 +55,8 @@ function parse_event(events) {
 
             for (const [course, _] of Object.entries(courses)) {
                 const row = createRow(cursus + "_" + course, course, onCheck, cursus);
+                row.id = cursus + "_" + course;
+                
                 table.appendChild(row);
             }
         }
@@ -79,6 +81,7 @@ function createRow(id, text, onclick, name) {
 
     const checkbox_container = document.createElement("td");
     row.appendChild(checkbox_container);
+
 
     const div = createRowDiv(id, text, onclick, name);
     checkbox_container.appendChild(div);
@@ -107,9 +110,10 @@ function onClickButtonList(e) {
     document.getElementById("scrlbtn").innerHTML = e.target.innerHTML;
 }
 
-function createRowDiv(id, text, onclick, name) {
+function createRowDiv(id, text, onclick, name, title=false) {
     const div = document.createElement("div");
     div.className = "checkbox-line";
+    div.id = id;
     
     const checkbox_input = document.createElement("input");
     checkbox_input.id = id;
@@ -117,6 +121,14 @@ function createRowDiv(id, text, onclick, name) {
     checkbox_input.onclick = onclick;
     checkbox_input.name = name;
     div.appendChild(checkbox_input);
+
+    if (!title) {
+        const colorBox = document.createElement("input");
+        colorBox.type = "color";
+        colorBox.className = "colorWell";
+        colorBox.value = localStorage.getItem(id);
+        div.appendChild(colorBox);
+    }
 
     const label = document.createElement("label");
     label.htmlFor = id;
@@ -145,8 +157,12 @@ function onCheckAll(e) {
 }
 
 function onCheck(e) {
-    const isCheck = document.getElementById(e.target.id).checked;
+    const isCheck = document.getElementById(e.target.parentElement.id).checked;
     toggle_course(e.target.id);
+}
+
+function changeColor(id, color) {
+    localStorage.setItem(id, color);
 }
 
 function toggle_course(id, remove=false){
@@ -154,7 +170,6 @@ function toggle_course(id, remove=false){
         localStorage.removeItem(id)
     }else {
         localStorage.setItem(id,"")
-
     }
 }
 
@@ -163,3 +178,22 @@ window.onclick = function(event) {
         document.getElementById("sbl-course").style.display = "none";
     }
 }
+
+let colorWell;
+const defaultColor = "#878787";
+
+function startupColor() {
+    let colorWell = document.querySelectorAll(".colorWell")
+
+    colorWell.forEach((colorBox) => {
+        colorBox.value = localStorage.getItem(colorBox.parentElement.id);
+        colorBox.addEventListener("change", updateColor, false);
+        colorBox.select();
+    })
+}
+
+function updateColor(e) {
+    changeColor(e.target.parentElement.id, e.target.value);
+}
+
+window.addEventListener("load", startupColor, false);
