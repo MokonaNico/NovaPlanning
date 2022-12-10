@@ -80,6 +80,14 @@ h1 {
     font-size : 15px;
 }
 
+.arrow-img {
+    top: 5px;
+    width : 35px;
+    height : 35px;
+    position: relative;
+    z-index: 5;
+}
+
 .colorWell {
     width: 25px;
     hight: 25px;
