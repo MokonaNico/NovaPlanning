@@ -1,8 +1,6 @@
 !async function(){
     fetch_events().then((events_fetch)=> {
         let events = []
-
-
         for (let [key,value] of Object.entries(localStorage) ){
             if(value !== ""){
                 localStorage.removeItem(key)
@@ -11,18 +9,19 @@
             let spliced = key.split('_')
             let cursus = spliced[0]
             let course = spliced[1]
-            if(!course) continue;
-            option = cursus.split(' ')[1];
+            let option = cursus.split(' ')[1];
 
             // If the key in the local storage begin with only BAB1,BAB2,BAB3 or MASTER
             // Then it's an old key when there was only INFO, so we can just add INFO in front of the cursus
             if(["BAB1","BAB2","BAB3","MASTER"].includes(cursus)){
                 localStorage.removeItem(key)
                 localStorage.setItem(cursus+" INFO_"+course,"")
-                cursus = cursus+" INFO"
+                cursus=cursus+" INFO"
+                option = "INFO"
             }
+
             let course_events = events_fetch[option][cursus][course];
-            
+
             course_events.forEach((event)=>{
                 let date = new Date(event.start)
                 let start = [date.getFullYear(), date.getMonth()+1, date.getDate(), date.getHours(),date.getMinutes()]
