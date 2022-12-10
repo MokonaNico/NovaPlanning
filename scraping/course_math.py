@@ -90,10 +90,10 @@ course_math = {
     "Projet de réseaux I" : ("Projet de réseaux I", "BLUE"),
     "Réseaux I" : ("Réseaux I", "BLUE"),
     "Sciences de l'éduc + formation": ("Sciences de l'éducation et de la formation", "GREY"),
-    "Sém logique math I" : ("Séminaire d'introduction à la logique mathématiqu I", "RED"),
+    "Sém logique math I" : ("Séminaire d'introduction à la logique mathématique I", "RED"),
     "Structures de données II" : ("Structure de données II", "BLUE"),
     "Systèmes d'exploitation" : ("Systèmes d'exploitation", "BLUE"),
-    "TAF - AAEP" : ("Théorie et analyse finnancière", "ORANGE"),
+    "TAF - AAEP" : ("Théorie et analyse financière", "ORANGE"),
     "Théorie des modèles I" : ("Théorie des modèles", "RED"),
 
     "AdvDeepLearn" : ("Advanced machine learning and deep learning", "BLUE"),
