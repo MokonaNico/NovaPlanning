@@ -8212,11 +8212,6 @@
                     "end": "2022-12-16T17:30:00"
                 },
                 {
-                    "title": "Networks for multimedia and the Internet of things\nMme MOEYAERT\nDo.TeleSC",
-                    "start": "2023-01-11T08:15:00",
-                    "end": "2023-01-11T12:15:00"
-                },
-                {
                     "title": "Networks for multimedia and the Internet of things\nMme MOEYAERT\n",
                     "start": "2023-01-23T08:15:00",
                     "end": "2023-01-23T12:15:00"
@@ -8816,14 +8811,14 @@
                     "end": "2022-12-07T12:30:00"
                 },
                 {
-                    "title": "R\u00e9seaux II\nMr QUOITIN\n",
-                    "start": "2022-12-13T10:30:00",
-                    "end": "2022-12-13T12:30:00"
-                },
-                {
                     "title": "R\u00e9seaux II\nMr DUBRULLE\nNiDeVinci.Vaughan",
                     "start": "2022-12-14T10:30:00",
                     "end": "2022-12-14T12:30:00"
+                },
+                {
+                    "title": "R\u00e9seaux II\nMr QUOITIN\nNiP.0A11",
+                    "start": "2022-12-14T13:30:00",
+                    "end": "2022-12-14T15:30:00"
                 },
                 {
                     "title": "R\u00e9seaux II\nMr QUOITIN\nNiP.3E20",
@@ -9893,14 +9888,14 @@
                     "end": "2022-12-08T15:30:00"
                 },
                 {
-                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMr SAES\nNiP.0A07",
-                    "start": "2022-12-12T15:45:00",
-                    "end": "2022-12-12T17:45:00"
-                },
-                {
                     "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV\nNiGA.Plisnier",
                     "start": "2022-12-13T13:30:00",
                     "end": "2022-12-13T15:30:00"
+                },
+                {
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMr SAES\nNiP.0A07",
+                    "start": "2022-12-15T13:30:00",
+                    "end": "2022-12-15T15:30:00"
                 },
                 {
                     "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV\nNiV\u00e9sale.LaFontaine",
@@ -18009,62 +18004,62 @@
             ],
             "D\u00e9fi en IA": [
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr MELOT, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT, Mr DUTOIT\nNiDeVinci.Montague, NiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr MELOT, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT, Mr DUTOIT\nNiDeVinci.Mirzakhani, NiDeVinci.Montague, NiDeVinci.Russel",
                     "start": "2022-10-06T18:00:00",
                     "end": "2022-10-06T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-10-13T18:00:00",
                     "end": "2022-10-13T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-10-20T18:00:00",
                     "end": "2022-10-20T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr MELOT, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT, Mr DUTOIT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr MELOT, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT, Mr DUTOIT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-10-27T18:00:00",
                     "end": "2022-10-27T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-11-03T18:00:00",
                     "end": "2022-11-03T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Montague, NiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Montague, NiDeVinci.Russel",
                     "start": "2022-11-10T18:00:00",
                     "end": "2022-11-10T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr MELOT, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT, Mr DUTOIT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr MELOT, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT, Mr DUTOIT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-11-17T18:00:00",
                     "end": "2022-11-17T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-11-24T18:00:00",
                     "end": "2022-11-24T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-12-01T18:00:00",
                     "end": "2022-12-01T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr MELOT, Mr SIEBERT, Mr BEN TAIEB, Mr DUTOIT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr MELOT, Mr SIEBERT, Mr BEN TAIEB, Mr DUTOIT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-12-08T18:00:00",
                     "end": "2022-12-08T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-12-15T18:00:00",
                     "end": "2022-12-15T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr SIEBERT, Mr BEN TAIEB, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2022-12-22T18:00:00",
                     "end": "2022-12-22T21:00:00"
                 }
@@ -18936,12 +18931,12 @@
                     "end": "2023-03-30T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
                     "start": "2023-03-31T13:30:00",
                     "end": "2023-03-31T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
                     "start": "2023-04-20T13:30:00",
                     "end": "2023-04-20T15:30:00"
                 },
@@ -20571,11 +20566,6 @@
                     "title": "R\u00e9seaux II\nMr DUBRULLE\nNiDeVinci.Russel",
                     "start": "2022-12-07T10:30:00",
                     "end": "2022-12-07T12:30:00"
-                },
-                {
-                    "title": "R\u00e9seaux II\nMr QUOITIN\n",
-                    "start": "2022-12-13T10:30:00",
-                    "end": "2022-12-13T12:30:00"
                 },
                 {
                     "title": "R\u00e9seaux II\nMr DUBRULLE\nNiDeVinci.Vaughan",
