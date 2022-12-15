@@ -1966,7 +1966,7 @@
                     "end": "2022-12-21T10:15:00"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Vaughan",
                     "start": "2022-12-21T15:45:00",
                     "end": "2022-12-21T17:45:00"
                 }
@@ -3668,7 +3668,7 @@
                     "end": "2022-12-19T10:15:00"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Vaughan",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Russel",
                     "start": "2022-12-21T13:30:00",
                     "end": "2022-12-21T17:30:00"
                 },
@@ -4132,14 +4132,9 @@
                     "end": "2022-12-14T10:15:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nNiV\u00e9sale.025",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr VANDERSTEENE\nNiV\u00e9sale.020",
                     "start": "2022-12-19T13:30:00",
                     "end": "2022-12-19T15:30:00"
-                },
-                {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr VANDERSTEENE\nWa.203P",
-                    "start": "2022-12-21T08:15:00",
-                    "end": "2022-12-21T10:15:00"
                 },
                 {
                     "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nNiGA.Gutenberg",
@@ -5327,7 +5322,7 @@
                     "end": "2022-12-16T10:15:00"
                 },
                 {
-                    "title": "Algorithmique et BioInformatique\nMr DELGRANGE\nNiDeVinci.Russel",
+                    "title": "Algorithmique et BioInformatique\nMr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2022-12-21T13:30:00",
                     "end": "2022-12-21T15:30:00"
                 },
@@ -6122,7 +6117,7 @@
                     "end": "2022-12-19T10:15:00"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Vaughan",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Russel",
                     "start": "2022-12-21T13:30:00",
                     "end": "2022-12-21T17:30:00"
                 },
@@ -12351,7 +12346,7 @@
                     "end": "2022-12-21T10:15:00"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Vaughan",
                     "start": "2022-12-21T15:45:00",
                     "end": "2022-12-21T17:45:00"
                 }
@@ -17681,7 +17676,7 @@
                     "end": "2022-12-16T10:15:00"
                 },
                 {
-                    "title": "Algorithmique et bioinformatique\nMr DELGRANGE\nNiDeVinci.Russel",
+                    "title": "Algorithmique et bioinformatique\nMr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2022-12-21T13:30:00",
                     "end": "2022-12-21T15:30:00"
                 },
