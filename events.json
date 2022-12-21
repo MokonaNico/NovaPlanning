@@ -1255,11 +1255,6 @@
                     "end": "2022-12-21T15:30:00"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.Curie",
-                    "start": "2022-12-23T10:30:00",
-                    "end": "2022-12-23T12:30:00"
-                },
-                {
                     "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.Gutenberg",
                     "start": "2023-01-16T09:00:00",
                     "end": "2023-01-16T12:00:00"
@@ -11058,11 +11053,6 @@
                     "end": "2022-12-21T15:30:00"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.Curie",
-                    "start": "2022-12-23T10:30:00",
-                    "end": "2022-12-23T12:30:00"
-                },
-                {
                     "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.Gutenberg",
                     "start": "2023-01-16T09:00:00",
                     "end": "2023-01-16T12:00:00"
@@ -12164,7 +12154,7 @@
                     "end": "2022-12-20T15:30:00"
                 },
                 {
-                    "title": "Analyse math\u00e9matique II\nMr SIMON\nNiB4.Penrose",
+                    "title": "Analyse math\u00e9matique II\nMr SIMON\nNiP.0A11",
                     "start": "2023-01-26T13:30:00",
                     "end": "2023-01-26T17:30:00"
                 },
@@ -12530,14 +12520,14 @@
                     "end": "2022-12-22T12:15:00"
                 },
                 {
-                    "title": "D\u00e9vellopement dirig\u00e9 par mod\u00e8les\nMr DUPONT\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "D\u00e9vellopement dirig\u00e9 par mod\u00e8les\nMr DUPONT\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-01-16T13:30:00",
                     "end": "2023-01-16T17:30:00"
                 }
             ],
             "English for science": [
                 {
-                    "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiB6.18, NiDeVinci.Russel, NiB4.Penrose",
+                    "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiB4.Penrose, NiDeVinci.Russel, NiB6.18",
                     "start": "2022-09-19T10:30:00",
                     "end": "2022-09-19T12:30:00"
                 },
@@ -12662,7 +12652,7 @@
                     "end": "2022-12-19T12:30:00"
                 },
                 {
-                    "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
+                    "title": "English for science\nMme VAN LANCKER, Mr PAGANELLI, Mme FONTANA\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
                     "start": "2023-01-27T13:30:00",
                     "end": "2023-01-27T17:30:00"
                 },
@@ -12851,7 +12841,7 @@
                     "end": "2023-04-19T12:30:00"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-04-21T13:30:00",
                     "end": "2023-04-21T15:30:00"
                 },
@@ -12866,12 +12856,12 @@
                     "end": "2023-04-26T12:30:00"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-04-27T13:30:00",
                     "end": "2023-04-27T15:30:00"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-04-28T13:30:00",
                     "end": "2023-04-28T15:30:00"
                 },
@@ -12881,12 +12871,12 @@
                     "end": "2023-05-03T12:30:00"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-05-04T13:30:00",
                     "end": "2023-05-04T15:30:00"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-05-05T13:30:00",
                     "end": "2023-05-05T15:30:00"
                 },
@@ -12896,12 +12886,12 @@
                     "end": "2023-05-10T12:30:00"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-05-11T13:30:00",
                     "end": "2023-05-11T15:30:00"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-05-12T13:30:00",
                     "end": "2023-05-12T15:30:00"
                 },
@@ -12911,24 +12901,24 @@
                     "end": "2023-05-17T12:30:00"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-05-19T13:30:00",
                     "end": "2023-05-19T15:30:00"
                 }
             ],
             "Formation LaTeX": [
                 {
-                    "title": "Formation LaTeX\nMr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Formation LaTeX\nMr GROSSE\u2011ERDMANN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2022-09-28T18:00:00",
                     "end": "2022-09-28T20:00:00"
                 },
                 {
-                    "title": "Formation LaTeX\nMr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Formation LaTeX\nMr GROSSE\u2011ERDMANN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2022-10-04T13:30:00",
                     "end": "2022-10-04T15:30:00"
                 },
                 {
-                    "title": "Formation LaTeX\nMr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Formation LaTeX\nMr GROSSE\u2011ERDMANN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2022-10-11T13:30:00",
                     "end": "2022-10-11T15:30:00"
                 }
@@ -13652,7 +13642,7 @@
                     "end": "2022-11-07T17:45:00"
                 },
                 {
-                    "title": "Programmation fonctionnelle\nMr MENS\nNiB6.18, NiDeVinci.Russel",
+                    "title": "Programmation fonctionnelle\nMr MENS\nNiDeVinci.Russel, NiB6.18",
                     "start": "2022-11-14T15:45:00",
                     "end": "2022-11-14T17:45:00"
                 },
@@ -13689,69 +13679,69 @@
             ],
             "Projet d'informatique": [
                 {
-                    "title": "Projet d'informatique\nMr MELOT, Mr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiGA.Plisnier",
+                    "title": "Projet d'informatique\nMr HAUWEELE, Mr MELOT, Mr BONTE, Mr DUBRULLE\nNiGA.Plisnier",
                     "start": "2023-02-09T15:45:00",
                     "end": "2023-02-09T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiGA.Plisnier",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiGA.Plisnier",
                     "start": "2023-02-17T15:45:00",
                     "end": "2023-02-17T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiGA.Plisnier",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiGA.Plisnier",
                     "start": "2023-02-24T15:45:00",
                     "end": "2023-02-24T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiDeVinci.Russel",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiDeVinci.Russel",
                     "start": "2023-03-03T15:45:00",
                     "end": "2023-03-03T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiGA.Plisnier",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiGA.Plisnier",
                     "start": "2023-03-10T15:45:00",
                     "end": "2023-03-10T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiGA.Plisnier",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiGA.Plisnier",
                     "start": "2023-03-17T15:45:00",
                     "end": "2023-03-17T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiDeVinci.Russel",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiDeVinci.Russel",
                     "start": "2023-03-24T15:45:00",
                     "end": "2023-03-24T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiDeVinci.Russel",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiDeVinci.Russel",
                     "start": "2023-03-31T15:45:00",
                     "end": "2023-03-31T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiDeVinci.Russel",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiDeVinci.Russel",
                     "start": "2023-04-28T15:45:00",
                     "end": "2023-04-28T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiDeVinci.Russel",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiDeVinci.Russel",
                     "start": "2023-05-12T15:45:00",
                     "end": "2023-05-12T17:45:00"
                 },
                 {
-                    "title": "Projet d'informatique\nMr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiDeVinci.Russel",
+                    "title": "Projet d'informatique\nMr BONTE, Mr HAUWEELE, Mr DUBRULLE\nNiDeVinci.Russel",
                     "start": "2023-05-19T15:45:00",
                     "end": "2023-05-19T17:45:00"
                 }
             ],
             "Projet de g\u00e9nie logiciel": [
                 {
-                    "title": "Projet de g\u00e9nie logiciel\nMr MENS, Mr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiB4.Penrose",
+                    "title": "Projet de g\u00e9nie logiciel\nMr HAUWEELE, Mr MENS, Mr BONTE, Mr DUBRULLE\nNiB4.Penrose",
                     "start": "2023-02-06T13:30:00",
                     "end": "2023-02-06T15:30:00"
                 },
                 {
-                    "title": "Projet de g\u00e9nie logiciel\nMr MENS, Mr HAUWEELE, Mr BONTE, Mr DUBRULLE\nNiB4.Penrose",
+                    "title": "Projet de g\u00e9nie logiciel\nMr HAUWEELE, Mr MENS, Mr BONTE, Mr DUBRULLE\nNiB4.Penrose",
                     "start": "2023-02-20T13:30:00",
                     "end": "2023-02-20T15:30:00"
                 },
@@ -13955,7 +13945,7 @@
                     "end": "2023-03-27T17:45:00"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.0A11, NiP.3E20",
+                    "title": "Simulation\nMr BUYS\nNiP.3E20, NiP.0A11",
                     "start": "2023-05-08T15:45:00",
                     "end": "2023-05-08T17:45:00"
                 }
@@ -13967,7 +13957,7 @@
                     "end": "2023-02-07T12:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT, Mr HAUWEELE\nNiB6.211",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mr HAUWEELE, Mme BRUYERE\nNiB6.211",
                     "start": "2023-02-08T15:45:00",
                     "end": "2023-02-08T17:45:00"
                 },
@@ -13977,7 +13967,7 @@
                     "end": "2023-02-14T12:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.211",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.211",
                     "start": "2023-02-15T15:45:00",
                     "end": "2023-02-15T17:45:00"
                 },
@@ -13997,7 +13987,7 @@
                     "end": "2023-02-28T12:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.211",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.211",
                     "start": "2023-03-01T15:45:00",
                     "end": "2023-03-01T17:45:00"
                 },
@@ -14012,7 +14002,7 @@
                     "end": "2023-03-07T12:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.211",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.211",
                     "start": "2023-03-08T15:45:00",
                     "end": "2023-03-08T17:45:00"
                 },
@@ -14032,7 +14022,7 @@
                     "end": "2023-03-21T12:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiGA.Plisnier",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiGA.Plisnier",
                     "start": "2023-03-22T15:45:00",
                     "end": "2023-03-22T17:45:00"
                 },
@@ -14042,7 +14032,7 @@
                     "end": "2023-03-28T12:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.030",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.030",
                     "start": "2023-03-29T15:45:00",
                     "end": "2023-03-29T17:45:00"
                 },
@@ -14062,7 +14052,7 @@
                     "end": "2023-04-25T12:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.211",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.211",
                     "start": "2023-04-26T15:45:00",
                     "end": "2023-04-26T17:45:00"
                 },
@@ -14072,12 +14062,12 @@
                     "end": "2023-05-02T12:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.211",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.211",
                     "start": "2023-05-03T15:45:00",
                     "end": "2023-05-03T17:45:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT, Mr HAUWEELE\nNiDeVinci.Russel",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mr HAUWEELE, Mme BRUYERE\nNiDeVinci.Russel",
                     "start": "2023-05-04T15:45:00",
                     "end": "2023-05-04T17:45:00"
                 },
@@ -14087,22 +14077,22 @@
                     "end": "2023-05-09T12:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.211",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.211",
                     "start": "2023-05-10T15:45:00",
                     "end": "2023-05-10T17:45:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.124",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.124",
                     "start": "2023-05-17T13:30:00",
                     "end": "2023-05-17T15:30:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.211",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.211",
                     "start": "2023-05-17T15:45:00",
                     "end": "2023-05-17T17:45:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT, Mr HAUWEELE\nNiDeVinci.Russel",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mr HAUWEELE, Mme BRUYERE\nNiDeVinci.Russel",
                     "start": "2023-05-19T08:15:00",
                     "end": "2023-05-19T10:15:00"
                 }
