@@ -4437,7 +4437,7 @@
                     "end": "2023-02-06T12:30:00"
                 },
                 {
-                    "title": "Programmation logique\nMr MENS\nNiP.0A11",
+                    "title": "Programmation logique\nMr MENS\nNiDeVinci.Vaughan",
                     "start": "2023-02-13T10:30:00",
                     "end": "2023-02-13T12:30:00"
                 },
@@ -4457,7 +4457,7 @@
                     "end": "2023-03-06T12:30:00"
                 },
                 {
-                    "title": "Programmation logique\nMr MENS\nNiP.0A11",
+                    "title": "Programmation logique\nMr MENS\nNiDeVinci.Vaughan",
                     "start": "2023-03-13T10:30:00",
                     "end": "2023-03-13T12:30:00"
                 },
@@ -4487,7 +4487,7 @@
                     "end": "2023-04-18T12:30:00"
                 },
                 {
-                    "title": "Programmation logique\nMr MENS\nNiDeVinci.Russel",
+                    "title": "Programmation logique\nMr MENS\nNiB4.Penrose",
                     "start": "2023-04-25T10:30:00",
                     "end": "2023-04-25T12:30:00"
                 },
@@ -4497,7 +4497,7 @@
                     "end": "2023-05-02T12:30:00"
                 },
                 {
-                    "title": "Programmation logique\nMr MENS\nNiDeVinci.Russel",
+                    "title": "Programmation logique\nMr MENS\nNiB4.Penrose",
                     "start": "2023-05-09T10:30:00",
                     "end": "2023-05-09T12:30:00"
                 },
@@ -4797,7 +4797,7 @@
                     "end": "2023-04-24T17:45:00"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.0A11, NiP.3E20",
+                    "title": "Simulation\nMr BUYS\nNiP.3E20, NiP.0A11",
                     "start": "2023-05-08T15:45:00",
                     "end": "2023-05-08T17:45:00"
                 }
@@ -7573,7 +7573,7 @@
                     "end": "2023-03-22T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nWa.Drechsel",
                     "start": "2023-03-24T08:15:00",
                     "end": "2023-03-24T10:15:00"
                 },
@@ -8507,7 +8507,7 @@
                     "end": "2023-02-06T12:30:00"
                 },
                 {
-                    "title": "Programmation logique\nMr MENS\nNiP.0A11",
+                    "title": "Programmation logique\nMr MENS\nNiDeVinci.Vaughan",
                     "start": "2023-02-13T10:30:00",
                     "end": "2023-02-13T12:30:00"
                 },
@@ -8522,7 +8522,7 @@
                     "end": "2023-03-06T12:30:00"
                 },
                 {
-                    "title": "Programmation logique\nMr MENS\nNiP.0A11",
+                    "title": "Programmation logique\nMr MENS\nNiDeVinci.Vaughan",
                     "start": "2023-03-13T10:30:00",
                     "end": "2023-03-13T12:30:00"
                 },
@@ -8552,7 +8552,7 @@
                     "end": "2023-04-18T12:30:00"
                 },
                 {
-                    "title": "Programmation logique\nMr MENS\nNiDeVinci.Russel",
+                    "title": "Programmation logique\nMr MENS\nNiB4.Penrose",
                     "start": "2023-04-25T10:30:00",
                     "end": "2023-04-25T12:30:00"
                 },
@@ -8562,7 +8562,7 @@
                     "end": "2023-05-02T12:30:00"
                 },
                 {
-                    "title": "Programmation logique\nMr MENS\nNiDeVinci.Russel",
+                    "title": "Programmation logique\nMr MENS\nNiB4.Penrose",
                     "start": "2023-05-09T10:30:00",
                     "end": "2023-05-09T12:30:00"
                 },
@@ -9212,19 +9212,9 @@
                     "end": "2023-03-10T17:45:00"
                 },
                 {
-                    "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2023-03-17T15:45:00",
-                    "end": "2023-03-17T17:45:00"
-                },
-                {
                     "title": "Software evolution\nMr MENS\nNiDeVinci.Russel",
                     "start": "2023-03-20T13:30:00",
                     "end": "2023-03-20T17:45:00"
-                },
-                {
-                    "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2023-03-24T15:45:00",
-                    "end": "2023-03-24T17:45:00"
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiDeVinci.Russel",
@@ -9238,8 +9228,18 @@
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiB4.119",
+                    "start": "2023-04-17T13:30:00",
+                    "end": "2023-04-17T15:30:00"
+                },
+                {
+                    "title": "Software evolution\nMr MENS\nNiB4.119",
                     "start": "2023-04-21T15:45:00",
                     "end": "2023-04-21T17:45:00"
+                },
+                {
+                    "title": "Software evolution\nMr MENS\nNiB4.119",
+                    "start": "2023-04-24T13:30:00",
+                    "end": "2023-04-24T15:30:00"
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiB4.119",
@@ -9743,7 +9743,7 @@
                     "end": "2023-02-17T12:30:00"
                 },
                 {
-                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMr SAES\nNiP.0A07",
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMr SAES\nNiV\u00e9sale.020",
                     "start": "2023-02-21T08:15:00",
                     "end": "2023-02-21T10:15:00"
                 },
@@ -13438,7 +13438,7 @@
                     "end": "2022-12-22T12:30:00"
                 },
                 {
-                    "title": "Physique G\u00e9n\u00e9rale III\nMr ROSOLEN, Mr VOUE\nNiB4.120",
+                    "title": "Physique G\u00e9n\u00e9rale III\nMr ROSOLEN, Mr VOUE\nNiB4.Penrose",
                     "start": "2023-01-24T08:15:00",
                     "end": "2023-01-24T12:15:00"
                 }
@@ -15659,14 +15659,19 @@
                     "end": "2023-02-22T15:30:00"
                 },
                 {
+                    "title": "Etude d'objets de la math\u00e9matique \u00e9l\u00e9mentaire\nMr TROESTLER\nNiP.0A07",
+                    "start": "2023-02-28T13:30:00",
+                    "end": "2023-02-28T15:30:00"
+                },
+                {
                     "title": "Etude d'objets de la math\u00e9matique \u00e9l\u00e9mentaire\nMme BRIDOUX\nNiP.3E11, NiP.3E10",
                     "start": "2023-03-01T13:30:00",
                     "end": "2023-03-01T15:30:00"
                 },
                 {
                     "title": "Etude d'objets de la math\u00e9matique \u00e9l\u00e9mentaire\nMr TROESTLER\nNiP.3E11, NiP.3E10",
-                    "start": "2023-03-08T13:30:00",
-                    "end": "2023-03-08T15:30:00"
+                    "start": "2023-03-06T08:15:00",
+                    "end": "2023-03-06T10:15:00"
                 },
                 {
                     "title": "Etude d'objets de la math\u00e9matique \u00e9l\u00e9mentaire\nMme BRIDOUX\nNiP.3E10",
@@ -18214,14 +18219,19 @@
                     "end": "2023-02-22T15:30:00"
                 },
                 {
+                    "title": "Etude d'objets de la math\u00e9matique \u00e9l\u00e9mentaire\nMr TROESTLER\nNiP.0A07",
+                    "start": "2023-02-28T13:30:00",
+                    "end": "2023-02-28T15:30:00"
+                },
+                {
                     "title": "Etude d'objets de la math\u00e9matique \u00e9l\u00e9mentaire\nMme BRIDOUX\nNiP.3E10, NiP.3E11",
                     "start": "2023-03-01T13:30:00",
                     "end": "2023-03-01T15:30:00"
                 },
                 {
                     "title": "Etude d'objets de la math\u00e9matique \u00e9l\u00e9mentaire\nMr TROESTLER\nNiP.3E10, NiP.3E11",
-                    "start": "2023-03-08T13:30:00",
-                    "end": "2023-03-08T15:30:00"
+                    "start": "2023-03-06T08:15:00",
+                    "end": "2023-03-06T10:15:00"
                 },
                 {
                     "title": "Etude d'objets de la math\u00e9matique \u00e9l\u00e9mentaire\nMme BRIDOUX\nNiP.3E10",
@@ -20674,19 +20684,9 @@
                     "end": "2023-03-10T17:45:00"
                 },
                 {
-                    "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2023-03-17T15:45:00",
-                    "end": "2023-03-17T17:45:00"
-                },
-                {
                     "title": "Software evolution\nMr MENS\nNiDeVinci.Russel",
                     "start": "2023-03-20T13:30:00",
                     "end": "2023-03-20T17:45:00"
-                },
-                {
-                    "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2023-03-24T15:45:00",
-                    "end": "2023-03-24T17:45:00"
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiDeVinci.Russel",
@@ -20700,8 +20700,18 @@
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiB4.119",
+                    "start": "2023-04-17T13:30:00",
+                    "end": "2023-04-17T15:30:00"
+                },
+                {
+                    "title": "Software evolution\nMr MENS\nNiB4.119",
                     "start": "2023-04-21T15:45:00",
                     "end": "2023-04-21T17:45:00"
+                },
+                {
+                    "title": "Software evolution\nMr MENS\nNiB4.119",
+                    "start": "2023-04-24T13:30:00",
+                    "end": "2023-04-24T15:30:00"
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiB4.119",
