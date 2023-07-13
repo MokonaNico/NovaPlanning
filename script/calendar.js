@@ -12,7 +12,6 @@
             let course = spliced[1];
             if(!course) continue;
             let option = cursus.split(' ')[1];
-
             let colorCustom = null;
             if (localStorage.getItem(key) !== "") {
                 colorCustom = value;
@@ -77,6 +76,7 @@ function checkRemoveData(key, cond) {
 }
 
 function calendar(events) {
+    console.log(events)
     let calendarEl = document.getElementById('calendar');
     let calendar = new FullCalendar.Calendar(calendarEl, {
         locale: 'fr',

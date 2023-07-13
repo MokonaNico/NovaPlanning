@@ -26,7 +26,8 @@ colorTab = {
     "CYAN": "#44fcdb",
     "ORANGE": "#fca044",
     "GREY": "#878787",
-    "GREEN": "#00ad3d"
+    "GREEN": "#00ad3d",
+    "PURPLE": "#79007d"
 }
 
 def getColor(color):
@@ -76,11 +77,12 @@ def get_information(driver,name, course_id):
         
     course = course_dict[course_id]
     
-    tables = driver.find_elements(By.XPATH,'//table[@class="Texte CellulesVisible"]/tbody/tr')
+    tables = driver.find_elements(By.XPATH,'//table[@class="as-content"]/tbody/tr')
     color = getColor("")
 
     for i in range(1,len(tables),2):
-        course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td')[1].text
+        course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td/span')[0].text
+
         if course_name in course:
             course_name, color_ = course[course_name]
             color = getColor(color_)
@@ -105,7 +107,7 @@ def get_information(driver,name, course_id):
 options = Options()
 options.headless = True
 driver = webdriver.Firefox(options=options)
-driver.get("https://hplanning2022.umons.ac.be/invite")
+driver.get("https://hplanning2023.umons.ac.be/invite")
 time.sleep(WAITING_TIME) # wait for the page to load
 move_to_start_position(driver)
 move_to_combo(driver)
@@ -119,6 +121,7 @@ time.sleep(WAITING_TIME)
 move_down(driver,1)
 time.sleep(WAITING_TIME)
 get_information(driver,"BAB1 MATH", "MATH")
+
 time.sleep(WAITING_TIME)
 move_to_combo(driver)
 time.sleep(WAITING_TIME)
@@ -131,6 +134,7 @@ time.sleep(WAITING_TIME)
 move_down(driver,1)
 time.sleep(WAITING_TIME)
 get_information(driver,"BAB2 MATH", "MATH")
+
 time.sleep(WAITING_TIME)
 move_to_combo(driver)
 time.sleep(WAITING_TIME)
@@ -143,10 +147,11 @@ time.sleep(WAITING_TIME)
 move_down(driver,1)
 time.sleep(WAITING_TIME)
 get_information(driver,"BAB3 MATH", "MATH")
+
 time.sleep(WAITING_TIME)
 move_to_combo(driver)
 time.sleep(WAITING_TIME)
-move_down(driver,61)
+move_down(driver,59)
 time.sleep(WAITING_TIME)
 get_information(driver,"MASTER INFO", "INFO")
 time.sleep(WAITING_TIME)
@@ -155,6 +160,7 @@ time.sleep(WAITING_TIME)
 move_down(driver,3)
 time.sleep(WAITING_TIME)
 get_information(driver,"MASTER MATH", "MATH")
+print(output)
 
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(output, indent=4))
