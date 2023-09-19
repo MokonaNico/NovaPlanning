@@ -16,6 +16,8 @@ import os
 from course_info import course_info
 from course_math import course_math
 
+URL = "https://hplanning2023.umons.ac.be/invite"
+
 course_dict = {"INFO": course_info, "MATH": course_math}
 
 WAITING_TIME = 5
@@ -62,12 +64,12 @@ def get_information(driver,name, course_id):
         
     course = course_dict[course_id]
     
-    tables = driver.find_elements(By.XPATH,'//table[@class="Texte CellulesVisible"]/tbody/tr')
+    tables = driver.find_elements(By.XPATH,'//table[@class="as-content"]/tbody/tr')
 
     for i in range(1,len(tables),2):
-        course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td')[1].text
+        course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td/span')[0].text
         if course_name in course:
-            course_name = course[course_name][0]
+            course_name = course[course_name]
         if course_name not in output[course_id][name]:
             output[course_id][name][course_name] = []
         list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
@@ -89,7 +91,7 @@ def get_information(driver,name, course_id):
 options = Options()
 options.headless = True
 driver = webdriver.Firefox(options=options)
-driver.get("https://hplanning2022.umons.ac.be/invite")
+driver.get(URL)
 time.sleep(WAITING_TIME) # wait for the page to load
 move_to_start_position(driver)
 move_to_combo(driver)
@@ -130,7 +132,7 @@ get_information(driver,"BAB3 MATH", "MATH")
 time.sleep(WAITING_TIME)
 move_to_combo(driver)
 time.sleep(WAITING_TIME)
-move_down(driver,61)
+move_down(driver,59)
 time.sleep(WAITING_TIME)
 get_information(driver,"MASTER INFO", "INFO")
 time.sleep(WAITING_TIME)
@@ -139,6 +141,7 @@ time.sleep(WAITING_TIME)
 move_down(driver,3)
 time.sleep(WAITING_TIME)
 get_information(driver,"MASTER MATH", "MATH")
+driver.quit()
 
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(output, indent=4))
