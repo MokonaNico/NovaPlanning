@@ -6,6 +6,9 @@
                 localStorage.removeItem(key)
             }
 
+            if (!key.includes("_"))
+                continue;
+
             let spliced = key.split('_')
             let cursus = spliced[0]
             let course = spliced[1]
