@@ -3942,7 +3942,7 @@
                     "end": "2023-10-05T15:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nRosaParks.1.09.Delmas\u2011Marty",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nRosaParks.1.09.Delmas\u2011Marty",
                     "start": "2023-10-10T08:15:00",
                     "end": "2023-10-10T10:15:00"
                 },
@@ -3957,9 +3957,14 @@
                     "end": "2023-10-19T15:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.218W",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.218W",
                     "start": "2023-10-20T15:45:00",
                     "end": "2023-10-20T17:45:00"
+                },
+                {
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nRosaParks.1.09.Delmas\u2011Marty",
+                    "start": "2023-10-23T13:30:00",
+                    "end": "2023-10-23T15:30:00"
                 },
                 {
                     "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nNiV\u00e9sale.023",
@@ -3967,17 +3972,12 @@
                     "end": "2023-10-26T15:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.218W",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.218W",
                     "start": "2023-10-27T15:45:00",
                     "end": "2023-10-27T17:45:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nWa.SalleAca",
-                    "start": "2023-11-02T13:30:00",
-                    "end": "2023-11-02T15:30:00"
-                },
-                {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.204P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.204P",
                     "start": "2023-11-03T15:45:00",
                     "end": "2023-11-03T17:45:00"
                 },
@@ -3987,7 +3987,7 @@
                     "end": "2023-11-09T15:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.204P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.204P",
                     "start": "2023-11-10T15:45:00",
                     "end": "2023-11-10T17:45:00"
                 },
@@ -3997,7 +3997,7 @@
                     "end": "2023-11-16T10:15:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.203P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.203P",
                     "start": "2023-11-17T15:45:00",
                     "end": "2023-11-17T17:45:00"
                 },
@@ -4007,7 +4007,7 @@
                     "end": "2023-11-21T12:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.203P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.203P",
                     "start": "2023-11-24T15:45:00",
                     "end": "2023-11-24T17:45:00"
                 },
@@ -4027,7 +4027,7 @@
                     "end": "2023-12-12T12:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.204P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.204P",
                     "start": "2023-12-13T15:45:00",
                     "end": "2023-12-13T17:45:00"
                 },
@@ -8581,6 +8581,11 @@
                     "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-07T18:00:00",
                     "end": "2023-11-07T20:00:00"
+                },
+                {
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                    "start": "2023-11-21T18:00:00",
+                    "end": "2023-11-21T20:00:00"
                 }
             ],
             "Signal processing": [
@@ -16432,7 +16437,7 @@
                     "end": "2023-12-12T15:30:00"
                 },
                 {
-                    "title": "Advanced machine learning and deep learning\nMr MAHMOUDI, Mme COOLS, Mr AMEL\nHo.AteliersArchi",
+                    "title": "Advanced machine learning and deep learning\nMme COOLS, Mr AMEL, Mr MAHMOUDI\nHo.AteliersArchi",
                     "start": "2023-12-14T08:30:00",
                     "end": "2023-12-14T11:30:00"
                 },
@@ -16442,7 +16447,7 @@
                     "end": "2023-12-19T15:30:00"
                 },
                 {
-                    "title": "Advanced machine learning and deep learning\nMr MAHMOUDI, Mme COOLS, Mr AMEL\nHo.AteliersArchi",
+                    "title": "Advanced machine learning and deep learning\nMme COOLS, Mr AMEL, Mr MAHMOUDI\nHo.AteliersArchi",
                     "start": "2023-12-21T08:30:00",
                     "end": "2023-12-21T11:30:00"
                 },
@@ -16619,6 +16624,11 @@
                     "title": "Analyse des donn\u00e9es\nMr SIEBERT\nHo.21",
                     "start": "2023-10-02T08:15:00",
                     "end": "2023-10-02T10:15:00"
+                },
+                {
+                    "title": "Analyse des donn\u00e9es\nMr SIEBERT, M. GOBERT\nHo.IGLab",
+                    "start": "2023-10-30T13:30:00",
+                    "end": "2023-10-30T16:30:00"
                 }
             ],
             "Projet d'analyse num\u00e9rique sur les \u00e9quations diff\u00e9rentielles": [
@@ -16695,87 +16705,87 @@
             ],
             "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle": [
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr MAHMOUDI, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr MAHMOUDI, Mr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-09-19T13:30:00",
                     "end": "2023-09-19T17:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bisLab, Ho.05",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr TUYTTENS, Mr GILLIS\nHo.05, Ho.25bisLab",
                     "start": "2023-09-21T08:15:00",
                     "end": "2023-09-21T10:15:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bisLab, Ho.05",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr TUYTTENS, Mr GILLIS\nHo.05, Ho.25bisLab",
                     "start": "2023-09-28T08:15:00",
                     "end": "2023-09-28T10:15:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr MAHMOUDI, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr MAHMOUDI, Mr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-10-03T13:30:00",
                     "end": "2023-10-03T17:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bisLab, Ho.05",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr TUYTTENS, Mr GILLIS\nHo.05, Ho.25bisLab",
                     "start": "2023-10-05T08:15:00",
                     "end": "2023-10-05T10:15:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr MAHMOUDI, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr MAHMOUDI, Mr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-10-10T13:30:00",
                     "end": "2023-10-10T17:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bisLab, Ho.05",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr TUYTTENS, Mr GILLIS\nHo.05, Ho.25bisLab",
                     "start": "2023-10-12T08:15:00",
                     "end": "2023-10-12T10:15:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-10-17T13:30:00",
                     "end": "2023-10-17T17:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS\nHo.25bisLab, Ho.05",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS\nHo.05, Ho.25bisLab",
                     "start": "2023-10-19T08:15:00",
                     "end": "2023-10-19T10:15:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr MAHMOUDI, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr MAHMOUDI, Mr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-10-24T13:30:00",
                     "end": "2023-10-24T17:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS\nHo.25bisLab, Ho.05",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS\nHo.05, Ho.25bisLab",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr MAHMOUDI, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr MAHMOUDI, Mr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-11-07T13:30:00",
                     "end": "2023-11-07T17:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr MAHMOUDI, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr MAHMOUDI, Mr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-11-14T13:30:00",
                     "end": "2023-11-14T17:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr TUYTTENS, Mr GILLIS\nHo.25",
                     "start": "2023-11-17T08:30:00",
                     "end": "2023-11-17T12:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr MAHMOUDI, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr MAHMOUDI, Mr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-11-28T13:30:00",
                     "end": "2023-11-28T17:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr MAHMOUDI, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr MAHMOUDI, Mr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-12-05T13:30:00",
                     "end": "2023-12-05T17:30:00"
                 },
                 {
-                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Atelier de mod\u00e9lisation en Recherche Op\u00e9rationnelle\nMr TUYTTENS, Mr GILLIS\nHo.25bisLab, Ho.23",
                     "start": "2023-12-12T13:30:00",
                     "end": "2023-12-12T17:30:00"
                 }
@@ -16929,117 +16939,117 @@
             ],
             "D\u00e9fi en IA": [
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-10-05T18:00:00",
                     "end": "2023-10-05T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-12T18:00:00",
                     "end": "2023-10-12T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-10-12T19:00:00",
                     "end": "2023-10-12T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-19T18:00:00",
                     "end": "2023-10-19T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-10-19T19:00:00",
                     "end": "2023-10-19T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-26T18:00:00",
                     "end": "2023-10-26T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-10-26T19:00:00",
                     "end": "2023-10-26T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-02T18:00:00",
                     "end": "2023-11-02T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-11-02T19:00:00",
                     "end": "2023-11-02T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-09T18:00:00",
                     "end": "2023-11-09T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-11-09T19:00:00",
                     "end": "2023-11-09T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-16T18:00:00",
                     "end": "2023-11-16T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-11-16T19:00:00",
                     "end": "2023-11-16T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-23T18:00:00",
                     "end": "2023-11-23T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-11-23T19:00:00",
                     "end": "2023-11-23T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-30T18:00:00",
                     "end": "2023-11-30T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-11-30T19:00:00",
                     "end": "2023-11-30T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-12-07T18:00:00",
                     "end": "2023-12-07T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-12-07T19:00:00",
                     "end": "2023-12-07T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-12-14T18:00:00",
                     "end": "2023-12-14T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-12-14T19:00:00",
                     "end": "2023-12-14T21:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-12-21T18:00:00",
                     "end": "2023-12-21T19:00:00"
                 },
                 {
-                    "title": "D\u00e9fi en IA\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Montague",
+                    "title": "D\u00e9fi en IA\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Montague",
                     "start": "2023-12-21T19:00:00",
                     "end": "2023-12-21T21:00:00"
                 }
@@ -17083,7 +17093,7 @@
             ],
             "Didactique des math\u00e9matiques discr\u00e8tes": [
                 {
-                    "title": "Didactique des math\u00e9matiques discr\u00e8tes\nMr MICHAUX, Mme BRIDOUX\nNiB4.119",
+                    "title": "Didactique des math\u00e9matiques discr\u00e8tes\nMme BRIDOUX, Mr MICHAUX\nNiB4.119",
                     "start": "2024-02-08T10:30:00",
                     "end": "2024-02-08T12:30:00"
                 }
@@ -19458,29 +19468,34 @@
             ],
             "S\u00e9minaire Intelligence Artificielle": [
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-17T18:00:00",
                     "end": "2023-10-17T20:00:00"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-24T18:00:00",
                     "end": "2023-10-24T20:00:00"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-27T18:00:00",
                     "end": "2023-10-27T20:00:00"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-31T18:00:00",
                     "end": "2023-10-31T20:00:00"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr DUPONT, Mr SIEBERT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-07T18:00:00",
                     "end": "2023-11-07T20:00:00"
+                },
+                {
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr DUPONT, Mr BEN TAIEB, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                    "start": "2023-11-21T18:00:00",
+                    "end": "2023-11-21T20:00:00"
                 }
             ],
             "Software evolution": [
