@@ -17113,26 +17113,6 @@
                     "title": "Entrepreneuriat, cr\u00e9ativit\u00e9 et mod\u00e8les d'affaires\nMr COLOT\nWa.220W",
                     "start": "2023-10-13T10:30:00",
                     "end": "2023-10-13T13:30:00"
-                },
-                {
-                    "title": "Entrepreneuriat, cr\u00e9ativit\u00e9 et mod\u00e8les d'affaires\nMr COLOT\nWa.218W",
-                    "start": "2023-10-20T10:30:00",
-                    "end": "2023-10-20T13:30:00"
-                },
-                {
-                    "title": "Entrepreneuriat, cr\u00e9ativit\u00e9 et mod\u00e8les d'affaires\nMr COLOT\nWa.218W",
-                    "start": "2023-10-27T10:30:00",
-                    "end": "2023-10-27T13:30:00"
-                },
-                {
-                    "title": "Entrepreneuriat, cr\u00e9ativit\u00e9 et mod\u00e8les d'affaires\nMr COLOT\nWa.218W",
-                    "start": "2023-12-01T10:30:00",
-                    "end": "2023-12-01T13:30:00"
-                },
-                {
-                    "title": "Entrepreneuriat, cr\u00e9ativit\u00e9 et mod\u00e8les d'affaires\nMr COLOT\nWa.218W",
-                    "start": "2023-12-08T10:30:00",
-                    "end": "2023-12-08T13:30:00"
                 }
             ],
             "Entrepreneuriat, business plan et plan financier": [
@@ -19570,6 +19550,11 @@
                     "title": "Stream data analysis\nMr SIEBERT\n",
                     "start": "2023-10-11T10:30:00",
                     "end": "2023-10-11T12:30:00"
+                },
+                {
+                    "title": "Stream data analysis\nMr SIEBERT\n",
+                    "start": "2023-10-20T10:30:00",
+                    "end": "2023-10-20T12:30:00"
                 }
             ]
         }
