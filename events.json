@@ -28,11 +28,6 @@
                     "end": "2023-11-06T15:30:00"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB4.120, NiGA.Plisnier, NiV\u00e9sale.020",
-                    "start": "2023-11-13T08:15:00",
-                    "end": "2023-11-13T10:15:00"
-                },
-                {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-13T10:30:00",
                     "end": "2023-11-13T12:30:00"
@@ -308,13 +303,13 @@
             "Calculus I - Th\u00e9orie": [
                 {
                     "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiV\u00e9sale.LaFontaine",
-                    "start": "2023-11-09T08:15:00",
-                    "end": "2023-11-09T10:15:00"
-                },
-                {
-                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiV\u00e9sale.LaFontaine",
                     "start": "2023-11-09T10:30:00",
                     "end": "2023-11-09T12:30:00"
+                },
+                {
+                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiGA.Plisnier",
+                    "start": "2023-11-13T08:15:00",
+                    "end": "2023-11-13T10:15:00"
                 },
                 {
                     "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiGA.Curie",
@@ -8901,11 +8896,6 @@
                     "end": "2023-11-06T15:30:00"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB4.120, NiV\u00e9sale.020, NiGA.Plisnier",
-                    "start": "2023-11-13T08:15:00",
-                    "end": "2023-11-13T10:15:00"
-                },
-                {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-13T10:30:00",
                     "end": "2023-11-13T12:30:00"
@@ -9785,13 +9775,13 @@
             "Calculus I - Th\u00e9orie": [
                 {
                     "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiV\u00e9sale.LaFontaine",
-                    "start": "2023-11-09T08:15:00",
-                    "end": "2023-11-09T10:15:00"
-                },
-                {
-                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiV\u00e9sale.LaFontaine",
                     "start": "2023-11-09T10:30:00",
                     "end": "2023-11-09T12:30:00"
+                },
+                {
+                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiGA.Plisnier",
+                    "start": "2023-11-13T08:15:00",
+                    "end": "2023-11-13T10:15:00"
                 },
                 {
                     "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiGA.Curie",
