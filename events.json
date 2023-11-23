@@ -1387,6 +1387,11 @@
                     "end": "2024-04-23T17:45:00"
                 },
                 {
+                    "title": "Programmation et algorithmique II\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "start": "2024-04-25T10:30:00",
+                    "end": "2024-04-25T12:30:00"
+                },
+                {
                     "title": "Programmation et algorithmique II\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2024-04-29T13:30:00",
                     "end": "2024-04-29T17:30:00"
@@ -1395,6 +1400,11 @@
                     "title": "Programmation et algorithmique II\nMr QUOITIN\nNiV\u00e9sale.020",
                     "start": "2024-04-30T15:45:00",
                     "end": "2024-04-30T17:45:00"
+                },
+                {
+                    "title": "Programmation et algorithmique II\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "start": "2024-05-03T15:45:00",
+                    "end": "2024-05-03T17:45:00"
                 },
                 {
                     "title": "Programmation et algorithmique II\nMr QUOITIN\nNiV\u00e9sale.020",
@@ -10752,6 +10762,11 @@
                     "end": "2024-04-23T17:45:00"
                 },
                 {
+                    "title": "Programmation et algorithmique II\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
+                    "start": "2024-04-25T10:30:00",
+                    "end": "2024-04-25T12:30:00"
+                },
+                {
                     "title": "Programmation et algorithmique II\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2024-04-29T13:30:00",
                     "end": "2024-04-29T17:30:00"
@@ -10760,6 +10775,11 @@
                     "title": "Programmation et algorithmique II\nMr QUOITIN\nNiV\u00e9sale.020",
                     "start": "2024-04-30T15:45:00",
                     "end": "2024-04-30T17:45:00"
+                },
+                {
+                    "title": "Programmation et algorithmique II\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "start": "2024-05-03T15:45:00",
+                    "end": "2024-05-03T17:45:00"
                 },
                 {
                     "title": "Programmation et algorithmique II\nMr QUOITIN\nNiV\u00e9sale.020",
@@ -17648,11 +17668,6 @@
                     "title": "Internat Finan. - AAEP\nMr VERMEYLEN\nWa.230L",
                     "start": "2023-12-15T13:30:00",
                     "end": "2023-12-15T15:30:00"
-                },
-                {
-                    "title": "Internat Finan. - AAEP\nMr VERMEYLEN, Mr SUKADI A SUKADI\nWa.230L",
-                    "start": "2023-12-22T13:30:00",
-                    "end": "2023-12-22T15:30:00"
                 }
             ],
             "Introduction \u00e0 l'utilisation de bases de donn\u00e9es math\u00e9matiques": [
