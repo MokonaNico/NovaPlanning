@@ -3855,6 +3855,11 @@
                     "title": "English for scientific communication Partie 1\nMr DEVILEZ\nNiGA.Plisnier",
                     "start": "2023-11-10T08:15:00",
                     "end": "2023-11-10T10:15:00"
+                },
+                {
+                    "title": "English for scientific communication Partie 1\nMr DEVILEZ\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-05T15:45:00",
+                    "end": "2024-02-05T17:45:00"
                 }
             ],
             "English for scientific communication Partie 2": [
@@ -4137,7 +4142,7 @@
                     "end": "2023-10-05T15:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nRosaParks.1.09.Delmas\u2011Marty",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nRosaParks.1.09.Delmas\u2011Marty",
                     "start": "2023-10-10T08:15:00",
                     "end": "2023-10-10T10:15:00"
                 },
@@ -4147,7 +4152,7 @@
                     "end": "2023-10-12T15:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.218W",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.218W",
                     "start": "2023-10-20T15:45:00",
                     "end": "2023-10-20T17:45:00"
                 },
@@ -4157,7 +4162,7 @@
                     "end": "2023-10-23T15:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.204P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.204P",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00"
                 },
@@ -4167,7 +4172,7 @@
                     "end": "2023-10-26T15:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.204P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.204P",
                     "start": "2023-11-03T15:45:00",
                     "end": "2023-11-03T17:45:00"
                 },
@@ -4177,7 +4182,7 @@
                     "end": "2023-11-09T15:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.204P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.204P",
                     "start": "2023-11-10T15:45:00",
                     "end": "2023-11-10T17:45:00"
                 },
@@ -4192,7 +4197,7 @@
                     "end": "2023-11-21T12:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.203P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.203P",
                     "start": "2023-11-24T15:45:00",
                     "end": "2023-11-24T17:45:00"
                 },
@@ -4202,7 +4207,7 @@
                     "end": "2023-11-28T12:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.228L",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.228L",
                     "start": "2023-12-11T08:15:00",
                     "end": "2023-12-11T10:15:00"
                 },
@@ -4212,14 +4217,9 @@
                     "end": "2023-12-12T12:30:00"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.204P",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr FEUILLET, Mr ETTAHAR\nWa.204P",
                     "start": "2023-12-13T15:45:00",
                     "end": "2023-12-13T17:45:00"
-                },
-                {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nWa.203P",
-                    "start": "2023-12-19T10:30:00",
-                    "end": "2023-12-19T12:30:00"
                 },
                 {
                     "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nWa.236L, Wa.203P",
@@ -6310,6 +6310,11 @@
                     "title": "English for scientific communication Partie 1\nMr DEVILEZ\nNiGA.Plisnier",
                     "start": "2023-11-10T08:15:00",
                     "end": "2023-11-10T10:15:00"
+                },
+                {
+                    "title": "English for scientific communication Partie 1\nMr DEVILEZ\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-05T17:45:00",
+                    "end": "2024-02-05T18:45:00"
                 }
             ],
             "English for scientific communication Partie 2": [
@@ -14810,6 +14815,11 @@
                     "title": "English for Scientific Communication\nMr DEVILEZ\nNiGA.Plisnier",
                     "start": "2023-11-10T08:15:00",
                     "end": "2023-11-10T10:15:00"
+                },
+                {
+                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-05T17:45:00",
+                    "end": "2024-02-05T18:45:00"
                 },
                 {
                     "title": "English for Scientific Communication\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
