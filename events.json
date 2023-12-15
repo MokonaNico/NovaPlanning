@@ -3780,11 +3780,6 @@
                     "end": "2023-12-15T10:15:00"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
-                    "start": "2023-12-18T08:15:00",
-                    "end": "2023-12-18T10:15:00"
-                },
-                {
                     "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Vaughan",
                     "start": "2023-12-20T14:00:00",
                     "end": "2023-12-20T18:00:00"
@@ -5875,11 +5870,6 @@
                     "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-12-15T08:15:00",
                     "end": "2023-12-15T10:15:00"
-                },
-                {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
-                    "start": "2023-12-18T08:15:00",
-                    "end": "2023-12-18T10:15:00"
                 },
                 {
                     "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Vaughan",
@@ -8649,7 +8639,7 @@
                     "end": "2023-12-18T15:30:00"
                 },
                 {
-                    "title": "R\u00e9seaux II\nMr DUSOLLIER\nNiDeVinci.Vaughan",
+                    "title": "R\u00e9seaux II\nMr QUOITIN, Mr DUSOLLIER\nNiP.0A07",
                     "start": "2023-12-20T10:30:00",
                     "end": "2023-12-20T12:30:00"
                 },
@@ -15020,6 +15010,11 @@
                     "end": "2023-12-15T10:15:00"
                 },
                 {
+                    "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr KRISTOFORIDIS\nWa.216W",
+                    "start": "2023-12-19T08:15:00",
+                    "end": "2023-12-19T10:15:00"
+                },
+                {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr FINET\nNiGA.Curie",
                     "start": "2023-12-19T13:30:00",
                     "end": "2023-12-19T16:30:00"
@@ -19943,7 +19938,7 @@
                     "end": "2023-12-18T15:30:00"
                 },
                 {
-                    "title": "R\u00e9seaux II\nMr DUSOLLIER\nNiDeVinci.Vaughan",
+                    "title": "R\u00e9seaux II\nMr DUSOLLIER, Mr QUOITIN\nNiP.0A07",
                     "start": "2023-12-20T10:30:00",
                     "end": "2023-12-20T12:30:00"
                 },
