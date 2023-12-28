@@ -5075,7 +5075,7 @@
                     "end": "2023-11-08T10:15:00"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr ROUZE, Mr SIEBERT, Mr LANI\nHo.06PC",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T17:30:00"
                 },
@@ -5085,7 +5085,7 @@
                     "end": "2023-11-22T10:15:00"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr ROUZE, Mr SIEBERT, Mr LANI\nHo.06PC",
                     "start": "2023-11-22T13:30:00",
                     "end": "2023-11-22T17:30:00"
                 },
@@ -5095,7 +5095,7 @@
                     "end": "2023-11-29T10:15:00"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr ROUZE, Mr SIEBERT, Mr LANI\nHo.06PC",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T17:30:00"
                 },
@@ -5105,7 +5105,7 @@
                     "end": "2023-12-13T10:15:00"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr ROUZE, Mr SIEBERT, Mr LANI\nHo.06PC",
                     "start": "2023-12-13T13:30:00",
                     "end": "2023-12-13T17:30:00"
                 },
@@ -5115,7 +5115,7 @@
                     "end": "2023-12-20T10:15:00"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr ROUZE, Mr SIEBERT, Mr LANI\nHo.06PC",
                     "start": "2023-12-22T14:00:00",
                     "end": "2023-12-22T18:00:00"
                 },
@@ -5190,6 +5190,11 @@
                     "title": "Advanced topics in Artificial Intelligence\nMr DUPONT\nHo.IGLab",
                     "start": "2023-12-12T08:30:00",
                     "end": "2023-12-12T11:30:00"
+                },
+                {
+                    "title": "Advanced topics in Artificial Intelligence\nMr DUPONT\nDo.SalleYernaux",
+                    "start": "2024-01-22T13:30:00",
+                    "end": "2024-01-22T17:30:00"
                 }
             ],
             "Aide multicrit\u00e8re \u00e0 la d\u00e9cision": [
@@ -5256,37 +5261,37 @@
             ],
             "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle": [
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bis, Ho.05",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.05, Ho.25bis",
                     "start": "2023-09-21T08:15:00",
                     "end": "2023-09-21T10:15:00"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bis, Ho.05",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.05, Ho.25bis",
                     "start": "2023-09-28T08:15:00",
                     "end": "2023-09-28T10:15:00"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bis, Ho.05",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.05, Ho.25bis",
                     "start": "2023-10-05T08:15:00",
                     "end": "2023-10-05T10:15:00"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bis, Ho.05",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.05, Ho.25bis",
                     "start": "2023-10-12T08:15:00",
                     "end": "2023-10-12T10:15:00"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS\nHo.25bis, Ho.05",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS\nHo.05, Ho.25bis",
                     "start": "2023-10-19T08:15:00",
                     "end": "2023-10-19T10:15:00"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS\nHo.25bis, Ho.05",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS\nHo.05, Ho.25bis",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bis, Ho.23",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.23, Ho.25bis",
                     "start": "2023-12-12T13:30:00",
                     "end": "2023-12-12T17:30:00"
                 }
@@ -5554,47 +5559,47 @@
             ],
             "Competitive programming": [
                 {
-                    "title": "Competitive programming\nMr LECRON, Mr VANDAELE\nHo.25",
+                    "title": "Competitive programming\nMr VANDAELE, Mr LECRON\nHo.25",
                     "start": "2024-02-05T13:30:00",
                     "end": "2024-02-05T17:30:00"
                 },
                 {
-                    "title": "Competitive programming\nMr LECRON, Mr VANDAELE\nHo.25",
+                    "title": "Competitive programming\nMr VANDAELE, Mr LECRON\nHo.25",
                     "start": "2024-02-12T13:30:00",
                     "end": "2024-02-12T17:30:00"
                 },
                 {
-                    "title": "Competitive programming\nMr LECRON, Mr VANDAELE\nHo.25",
+                    "title": "Competitive programming\nMr VANDAELE, Mr LECRON\nHo.25",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T17:30:00"
                 },
                 {
-                    "title": "Competitive programming\nMr LECRON, Mr VANDAELE\nHo.25",
+                    "title": "Competitive programming\nMr VANDAELE, Mr LECRON\nHo.25",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T17:30:00"
                 },
                 {
-                    "title": "Competitive programming\nMr LECRON, Mr VANDAELE\nHo.25",
+                    "title": "Competitive programming\nMr VANDAELE, Mr LECRON\nHo.25",
                     "start": "2024-03-04T13:30:00",
                     "end": "2024-03-04T17:30:00"
                 },
                 {
-                    "title": "Competitive programming\nMr LECRON, Mr VANDAELE\nHo.25",
+                    "title": "Competitive programming\nMr VANDAELE, Mr LECRON\nHo.25",
                     "start": "2024-03-11T13:30:00",
                     "end": "2024-03-11T17:30:00"
                 },
                 {
-                    "title": "Competitive programming\nMr LECRON, Mr VANDAELE\nHo.25",
+                    "title": "Competitive programming\nMr VANDAELE, Mr LECRON\nHo.25",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T17:30:00"
                 },
                 {
-                    "title": "Competitive programming\nMr LECRON, Mr VANDAELE\nHo.25",
+                    "title": "Competitive programming\nMr VANDAELE, Mr LECRON\nHo.25",
                     "start": "2024-04-15T13:30:00",
                     "end": "2024-04-15T17:30:00"
                 },
                 {
-                    "title": "Competitive programming\nMr LECRON, Mr VANDAELE\nHo.25",
+                    "title": "Competitive programming\nMr VANDAELE, Mr LECRON\nHo.25",
                     "start": "2024-04-22T13:30:00",
                     "end": "2024-04-22T17:30:00"
                 }
@@ -6304,12 +6309,12 @@
             ],
             "English for scientific communication Partie 2": [
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-02-09T08:15:00",
                     "end": "2024-02-09T10:15:00"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-02-16T08:15:00",
                     "end": "2024-02-16T10:15:00"
                 },
@@ -6324,32 +6329,32 @@
                     "end": "2024-03-01T10:15:00"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-03-08T08:15:00",
                     "end": "2024-03-08T10:15:00"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-03-15T08:15:00",
                     "end": "2024-03-15T10:15:00"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-03-22T08:15:00",
                     "end": "2024-03-22T10:15:00"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-03-29T08:15:00",
                     "end": "2024-03-29T10:15:00"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-04-26T08:15:00",
                     "end": "2024-04-26T10:15:00"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-05-03T08:15:00",
                     "end": "2024-05-03T10:15:00"
                 }
@@ -7333,97 +7338,97 @@
             ],
             "Management et analyse des organisations": [
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-02-07T10:30:00",
                     "end": "2024-02-07T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-02-09T08:15:00",
                     "end": "2024-02-09T10:15:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-02-09T10:30:00",
                     "end": "2024-02-09T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-02-14T10:30:00",
                     "end": "2024-02-14T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-02-16T08:15:00",
                     "end": "2024-02-16T10:15:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-02-16T10:30:00",
                     "end": "2024-02-16T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-02-23T08:15:00",
                     "end": "2024-02-23T10:15:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-02-23T10:30:00",
                     "end": "2024-02-23T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-02-28T10:30:00",
                     "end": "2024-02-28T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-03-01T08:15:00",
                     "end": "2024-03-01T10:15:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-03-01T10:30:00",
                     "end": "2024-03-01T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-03-06T10:30:00",
                     "end": "2024-03-06T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-03-08T08:15:00",
                     "end": "2024-03-08T10:15:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-03-13T10:30:00",
                     "end": "2024-03-13T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-03-15T08:15:00",
                     "end": "2024-03-15T10:15:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-03-20T10:30:00",
                     "end": "2024-03-20T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nWa.Hotyat",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nWa.Hotyat",
                     "start": "2024-03-22T08:15:00",
                     "end": "2024-03-22T10:15:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-03-27T10:30:00",
                     "end": "2024-03-27T12:30:00"
                 },
                 {
-                    "title": "Management et analyse des organisations\nMr LABIE, Mme GODFROID\nNiGA.VanGogh",
+                    "title": "Management et analyse des organisations\nMme GODFROID, Mr LABIE\nNiGA.VanGogh",
                     "start": "2024-03-29T08:15:00",
                     "end": "2024-03-29T10:15:00"
                 },
@@ -7908,7 +7913,7 @@
                     "end": "2024-02-13T12:30:00"
                 },
                 {
-                    "title": "Management des ressources humaines\nMme GIULIANO, Mme DUPONT\nWa.Drechsel",
+                    "title": "Management des ressources humaines\nMme DUPONT, Mme GIULIANO\nWa.Drechsel",
                     "start": "2024-02-27T10:30:00",
                     "end": "2024-02-27T12:30:00"
                 },
@@ -8599,7 +8604,7 @@
                     "end": "2023-11-22T12:30:00"
                 },
                 {
-                    "title": "R\u00e9seaux II\nMr QUOITIN, Mr DUSOLLIER\nNiGA.Escher",
+                    "title": "R\u00e9seaux II\nMr DUSOLLIER, Mr QUOITIN\nNiGA.Escher",
                     "start": "2023-11-24T10:30:00",
                     "end": "2023-11-24T12:30:00"
                 },
@@ -8639,7 +8644,7 @@
                     "end": "2023-12-18T15:30:00"
                 },
                 {
-                    "title": "R\u00e9seaux II\nMr QUOITIN, Mr DUSOLLIER\nNiP.0A07",
+                    "title": "R\u00e9seaux II\nMr DUSOLLIER, Mr QUOITIN\nNiP.0A07",
                     "start": "2023-12-20T10:30:00",
                     "end": "2023-12-20T12:30:00"
                 },
