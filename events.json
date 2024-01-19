@@ -4268,6 +4268,11 @@
                     "end": "2024-02-12T15:30:00"
                 },
                 {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "start": "2024-02-13T13:30:00",
+                    "end": "2024-02-13T15:30:00"
+                },
+                {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00"
@@ -4276,6 +4281,11 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00"
+                },
+                {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "start": "2024-02-26T15:45:00",
+                    "end": "2024-02-26T17:45:00"
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18",
@@ -4309,11 +4319,6 @@
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
-                    "start": "2024-03-19T13:30:00",
-                    "end": "2024-03-19T15:30:00"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2024-03-20T10:30:00",
                     "end": "2024-03-20T12:30:00"
                 },
@@ -4321,11 +4326,6 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
-                    "start": "2024-03-26T13:30:00",
-                    "end": "2024-03-26T15:30:00"
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
@@ -5470,7 +5470,7 @@
                     "end": "2023-12-19T12:30:00"
                 },
                 {
-                    "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2024-01-23T08:15:00",
                     "end": "2024-01-23T12:15:00"
                 }
@@ -6730,7 +6730,7 @@
                     "end": "2024-02-13T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-02-15T10:30:00",
                     "end": "2024-02-15T12:30:00"
                 },
@@ -6740,7 +6740,7 @@
                     "end": "2024-02-20T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-02-22T10:30:00",
                     "end": "2024-02-22T12:30:00"
                 },
@@ -6750,12 +6750,12 @@
                     "end": "2024-02-27T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-02-29T10:30:00",
                     "end": "2024-02-29T12:30:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiGA.Turing",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
                     "start": "2024-03-01T10:30:00",
                     "end": "2024-03-01T12:30:00"
                 },
@@ -6765,12 +6765,12 @@
                     "end": "2024-03-05T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-03-07T10:30:00",
                     "end": "2024-03-07T12:30:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiGA.Turing",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
                     "start": "2024-03-08T10:30:00",
                     "end": "2024-03-08T12:30:00"
                 },
@@ -6780,12 +6780,12 @@
                     "end": "2024-03-12T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-03-14T10:30:00",
                     "end": "2024-03-14T12:30:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiGA.Turing",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
                     "start": "2024-03-15T10:30:00",
                     "end": "2024-03-15T12:30:00"
                 },
@@ -6795,7 +6795,7 @@
                     "end": "2024-03-19T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-03-21T10:30:00",
                     "end": "2024-03-21T12:30:00"
                 },
@@ -6805,52 +6805,52 @@
                     "end": "2024-03-26T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-03-28T10:30:00",
                     "end": "2024-03-28T12:30:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-17T08:15:00",
                     "end": "2024-04-17T10:15:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-18T10:30:00",
                     "end": "2024-04-18T12:30:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-23T15:45:00",
                     "end": "2024-04-23T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-25T10:30:00",
                     "end": "2024-04-25T12:30:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-30T15:45:00",
                     "end": "2024-04-30T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-05-02T10:30:00",
                     "end": "2024-05-02T12:30:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-05-07T15:45:00",
                     "end": "2024-05-07T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-05-14T15:45:00",
                     "end": "2024-05-14T17:45:00"
                 },
                 {
-                    "title": "Introduction au calcul scientifique\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-05-16T08:15:00",
                     "end": "2024-05-16T10:15:00"
                 },
@@ -7066,6 +7066,11 @@
                     "end": "2024-02-12T15:30:00"
                 },
                 {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "start": "2024-02-13T13:30:00",
+                    "end": "2024-02-13T15:30:00"
+                },
+                {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00"
@@ -7074,6 +7079,11 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00"
+                },
+                {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "start": "2024-02-26T15:45:00",
+                    "end": "2024-02-26T17:45:00"
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18",
@@ -7107,11 +7117,6 @@
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
-                    "start": "2024-03-19T13:30:00",
-                    "end": "2024-03-19T15:30:00"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2024-03-20T10:30:00",
                     "end": "2024-03-20T12:30:00"
                 },
@@ -7119,11 +7124,6 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
-                    "start": "2024-03-26T13:30:00",
-                    "end": "2024-03-26T15:30:00"
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
@@ -7278,7 +7278,7 @@
                     "end": "2024-03-14T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T15:30:00"
                 },
@@ -7308,7 +7308,7 @@
                     "end": "2024-03-28T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
                     "start": "2024-03-29T13:30:00",
                     "end": "2024-03-29T15:30:00"
                 },
@@ -7318,7 +7318,7 @@
                     "end": "2024-04-18T12:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
                     "start": "2024-04-18T13:30:00",
                     "end": "2024-04-18T15:30:00"
                 },
@@ -15427,6 +15427,11 @@
                     "end": "2024-02-12T15:30:00"
                 },
                 {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "start": "2024-02-13T13:30:00",
+                    "end": "2024-02-13T15:30:00"
+                },
+                {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00"
@@ -15435,6 +15440,11 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00"
+                },
+                {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "start": "2024-02-26T15:45:00",
+                    "end": "2024-02-26T17:45:00"
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18",
@@ -15468,11 +15478,6 @@
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
-                    "start": "2024-03-19T13:30:00",
-                    "end": "2024-03-19T15:30:00"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2024-03-20T10:30:00",
                     "end": "2024-03-20T12:30:00"
                 },
@@ -15480,11 +15485,6 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11, NiB6.18",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
-                    "start": "2024-03-26T13:30:00",
-                    "end": "2024-03-26T15:30:00"
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
