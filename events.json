@@ -75,7 +75,7 @@
                     "end": "2023-12-11T12:30:00"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB4.120, NiGA.Plisnier, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiGA.Plisnier, NiB4.120",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00"
                 },
@@ -98,11 +98,6 @@
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX\nNiV\u00e9sale.023",
                     "start": "2024-02-12T10:30:00",
                     "end": "2024-02-12T12:30:00"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
-                    "start": "2024-02-19T08:15:00",
-                    "end": "2024-02-19T10:15:00"
                 },
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
@@ -133,16 +128,6 @@
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
                     "start": "2024-03-11T10:30:00",
                     "end": "2024-03-11T12:30:00"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX\nNiGA.Plisnier, NiB4.233",
-                    "start": "2024-03-18T08:15:00",
-                    "end": "2024-03-18T10:15:00"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX\nNiGA.Plisnier, NiB4.233",
-                    "start": "2024-03-18T10:30:00",
-                    "end": "2024-03-18T12:30:00"
                 },
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
@@ -188,11 +173,6 @@
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18, NiMen.Pauling",
                     "start": "2024-05-06T08:15:00",
                     "end": "2024-05-06T10:15:00"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiP.0A07, NiMen.Pauling",
-                    "start": "2024-05-06T10:30:00",
-                    "end": "2024-05-06T12:30:00"
                 },
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
@@ -585,7 +565,7 @@
                     "end": "2023-09-18T10:15:00"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr MICHAUX\nNiGA.VanGogh",
                     "start": "2023-09-18T13:30:00",
                     "end": "2023-09-18T16:30:00"
                 },
@@ -620,7 +600,7 @@
                     "end": "2023-10-30T10:15:00"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr MICHAUX\nNiGA.VanGogh",
                     "start": "2023-11-06T08:15:00",
                     "end": "2023-11-06T12:15:00"
                 },
@@ -1397,7 +1377,7 @@
                     "end": "2024-04-23T17:45:00"
                 },
                 {
-                    "title": "Programmation et algorithmique II\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "Programmation et algorithmique II\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-04-25T10:30:00",
                     "end": "2024-04-25T12:30:00"
                 },
@@ -1539,7 +1519,7 @@
                     "end": "2023-11-08T12:30:00"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr MELOT, Mr CARDOEN, Mr BONTE\nNiGA.Plisnier, NiV\u00e9sale.023",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr MELOT, Mr DUSOLLIER, Mr CARDOEN\nNiGA.Plisnier, NiV\u00e9sale.023",
                     "start": "2023-11-10T10:30:00",
                     "end": "2023-11-10T12:30:00"
                 },
@@ -1626,7 +1606,7 @@
             ],
             "Projet d'informatique": [
                 {
-                    "title": "Projet d'informatique\nMr DUSOLLIER, Mr BONTE, Mr MELOT\nNiGA.Plisnier",
+                    "title": "Projet d'informatique\nMr MELOT, Mr DUSOLLIER, Mr BONTE\nNiGA.Plisnier",
                     "start": "2024-02-08T15:45:00",
                     "end": "2024-02-08T17:45:00"
                 },
@@ -9388,16 +9368,6 @@
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
                     "start": "2024-03-11T10:30:00",
                     "end": "2024-03-11T12:30:00"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX\nNiB4.233, NiGA.Plisnier",
-                    "start": "2024-03-18T08:15:00",
-                    "end": "2024-03-18T10:15:00"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX\nNiB4.233, NiGA.Plisnier",
-                    "start": "2024-03-18T10:30:00",
-                    "end": "2024-03-18T12:30:00"
                 },
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
