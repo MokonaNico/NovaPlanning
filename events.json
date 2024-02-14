@@ -1654,11 +1654,6 @@
             "Rem FR": [
                 {
                     "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-02-14T18:00:00",
-                    "end": "2024-02-14T21:00:00"
-                },
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
                     "start": "2024-03-06T18:00:00",
                     "end": "2024-03-06T21:00:00"
                 },
@@ -5805,11 +5800,6 @@
             "Conf\u00e9rence/d\u00e9bat": [
                 {
                     "title": "Conf\u00e9rence/d\u00e9bat\nMme DUPONT\nWa.SalleAca",
-                    "start": "2024-02-20T17:00:00",
-                    "end": "2024-02-20T17:45:00"
-                },
-                {
-                    "title": "Conf\u00e9rence/d\u00e9bat\nMme DUPONT\nWa.SalleAca",
                     "start": "2024-02-20T17:45:00",
                     "end": "2024-02-20T21:00:00"
                 }
@@ -7011,11 +7001,6 @@
                     "end": "2024-02-20T12:30:00"
                 },
                 {
-                    "title": "Multimedia information retrieval\nMr MAHMOUDI\nHo.05",
-                    "start": "2024-02-23T10:30:00",
-                    "end": "2024-02-23T12:30:00"
-                },
-                {
                     "title": "Multimedia information retrieval\nMme COOLS, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T16:30:00"
@@ -7039,6 +7024,11 @@
                     "title": "Multimedia information retrieval\nMme COOLS, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-03-11T13:30:00",
                     "end": "2024-03-11T16:30:00"
+                },
+                {
+                    "title": "Multimedia information retrieval\nMr MAHMOUDI\nHo.05",
+                    "start": "2024-04-22T10:30:00",
+                    "end": "2024-04-22T12:30:00"
                 }
             ],
             "Machine Learning I": [
@@ -11298,11 +11288,6 @@
             "Rem FR": [
                 {
                     "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-02-14T18:00:00",
-                    "end": "2024-02-14T21:00:00"
-                },
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
                     "start": "2024-03-06T18:00:00",
                     "end": "2024-03-06T21:00:00"
                 },
@@ -14418,7 +14403,7 @@
                     "end": "2024-02-13T12:30:00"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.233",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.120",
                     "start": "2024-02-14T10:30:00",
                     "end": "2024-02-14T12:30:00"
                 },
@@ -14428,7 +14413,7 @@
                     "end": "2024-02-20T15:30:00"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.233",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.120",
                     "start": "2024-02-21T10:30:00",
                     "end": "2024-02-21T12:30:00"
                 },
@@ -14438,7 +14423,7 @@
                     "end": "2024-02-27T15:30:00"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.233",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E11",
                     "start": "2024-02-28T10:30:00",
                     "end": "2024-02-28T12:30:00"
                 },
@@ -14448,7 +14433,7 @@
                     "end": "2024-03-05T15:30:00"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.233",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.120",
                     "start": "2024-03-06T10:30:00",
                     "end": "2024-03-06T12:30:00"
                 },
@@ -14458,7 +14443,7 @@
                     "end": "2024-03-12T15:30:00"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.233",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.120",
                     "start": "2024-03-13T10:30:00",
                     "end": "2024-03-13T12:30:00"
                 },
@@ -14488,7 +14473,7 @@
                     "end": "2024-04-16T15:30:00"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.233",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E11",
                     "start": "2024-04-17T10:30:00",
                     "end": "2024-04-17T12:30:00"
                 },
@@ -14508,7 +14493,7 @@
                     "end": "2024-04-30T15:30:00"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E20",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E11",
                     "start": "2024-05-02T10:30:00",
                     "end": "2024-05-02T12:30:00"
                 },
@@ -14523,7 +14508,7 @@
                     "end": "2024-05-08T12:30:00"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.233",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.120",
                     "start": "2024-05-15T10:30:00",
                     "end": "2024-05-15T12:30:00"
                 }
