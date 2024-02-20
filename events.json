@@ -3125,6 +3125,11 @@
                     "end": "2024-04-18T17:45:00"
                 },
                 {
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.020",
+                    "start": "2024-04-22T15:45:00",
+                    "end": "2024-04-22T17:45:00"
+                },
+                {
                     "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.023",
                     "start": "2024-04-23T10:30:00",
                     "end": "2024-04-23T12:30:00"
@@ -3140,14 +3145,14 @@
                     "end": "2024-05-02T17:45:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.023",
-                    "start": "2024-05-07T10:30:00",
-                    "end": "2024-05-07T12:30:00"
-                },
-                {
                     "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.124, NiV\u00e9sale.020",
                     "start": "2024-05-08T15:45:00",
                     "end": "2024-05-08T17:45:00"
+                },
+                {
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.020",
+                    "start": "2024-05-14T10:30:00",
+                    "end": "2024-05-14T12:30:00"
                 },
                 {
                     "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.124",
@@ -7185,12 +7190,12 @@
                     "end": "2024-02-15T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.0A07",
                     "start": "2024-02-22T13:30:00",
                     "end": "2024-02-22T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan",
                     "start": "2024-02-23T13:30:00",
                     "end": "2024-02-23T15:30:00"
                 },
@@ -13234,6 +13239,11 @@
                     "end": "2024-04-18T17:45:00"
                 },
                 {
+                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.020",
+                    "start": "2024-04-22T15:45:00",
+                    "end": "2024-04-22T17:45:00"
+                },
+                {
                     "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.023",
                     "start": "2024-04-23T10:30:00",
                     "end": "2024-04-23T12:30:00"
@@ -13249,14 +13259,14 @@
                     "end": "2024-05-02T17:45:00"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.023",
-                    "start": "2024-05-07T10:30:00",
-                    "end": "2024-05-07T12:30:00"
-                },
-                {
                     "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.020, NiB6.124",
                     "start": "2024-05-08T15:45:00",
                     "end": "2024-05-08T17:45:00"
+                },
+                {
+                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.020",
+                    "start": "2024-05-14T10:30:00",
+                    "end": "2024-05-14T12:30:00"
                 },
                 {
                     "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.124",
@@ -18378,12 +18388,12 @@
                     "end": "2024-02-15T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.0A07",
                     "start": "2024-02-22T13:30:00",
                     "end": "2024-02-22T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan",
                     "start": "2024-02-23T13:30:00",
                     "end": "2024-02-23T15:30:00"
                 },
