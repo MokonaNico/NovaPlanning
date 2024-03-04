@@ -4299,6 +4299,11 @@
                     "end": "2024-03-21T12:30:00"
                 },
                 {
+                    "title": "Informatique temps-r\u00e9el\nMr DYNEROWICZ\nNiB6.124",
+                    "start": "2024-03-28T10:30:00",
+                    "end": "2024-03-28T12:30:00"
+                },
+                {
                     "title": "Informatique temps-r\u00e9el\nMr DYNEROWICZ\nNiB6.18",
                     "start": "2024-04-16T08:15:00",
                     "end": "2024-04-16T10:15:00"
@@ -4485,7 +4490,7 @@
                     "end": "2024-03-04T15:30:00"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-06T10:30:00",
                     "end": "2024-03-06T12:30:00"
                 },
@@ -6930,6 +6935,11 @@
                     "end": "2024-03-21T12:30:00"
                 },
                 {
+                    "title": "Informatique temps-r\u00e9el\nMr DYNEROWICZ\nNiB6.124",
+                    "start": "2024-03-28T10:30:00",
+                    "end": "2024-03-28T12:30:00"
+                },
+                {
                     "title": "Informatique temps-r\u00e9el\nMr DYNEROWICZ\nNiB6.18",
                     "start": "2024-04-16T08:15:00",
                     "end": "2024-04-16T10:15:00"
@@ -7338,7 +7348,7 @@
                     "end": "2024-03-04T15:30:00"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-06T10:30:00",
                     "end": "2024-03-06T12:30:00"
                 },
@@ -7363,7 +7373,7 @@
                     "end": "2024-03-20T12:30:00"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11, NiB6.18",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00"
                 },
@@ -7490,7 +7500,7 @@
                     "end": "2024-03-01T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-03-04T15:45:00",
                     "end": "2024-03-04T17:45:00"
                 },
@@ -7520,7 +7530,7 @@
                     "end": "2024-03-14T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T15:30:00"
                 },
@@ -7550,7 +7560,7 @@
                     "end": "2024-03-28T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
                     "start": "2024-03-29T13:30:00",
                     "end": "2024-03-29T15:30:00"
                 },
@@ -7560,7 +7570,7 @@
                     "end": "2024-04-18T12:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
                     "start": "2024-04-18T13:30:00",
                     "end": "2024-04-18T15:30:00"
                 },
@@ -15876,7 +15886,7 @@
                     "end": "2024-03-04T15:30:00"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-06T10:30:00",
                     "end": "2024-03-06T12:30:00"
                 },
@@ -18928,7 +18938,7 @@
                     "end": "2024-03-01T15:30:00"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-03-04T15:45:00",
                     "end": "2024-03-04T17:45:00"
                 },
@@ -19781,6 +19791,26 @@
                     "title": "Projet d'analyse math\u00e9matique - introduction\nMr MENET\nNiB4.0013",
                     "start": "2024-03-04T10:30:00",
                     "end": "2024-03-04T12:30:00"
+                },
+                {
+                    "title": "Projet d'analyse math\u00e9matique - introduction\nMr MENET\nNiP.3E11",
+                    "start": "2024-03-11T10:30:00",
+                    "end": "2024-03-11T12:30:00"
+                },
+                {
+                    "title": "Projet d'analyse math\u00e9matique - introduction\nMr MENET\nNiP.3E11",
+                    "start": "2024-03-18T10:30:00",
+                    "end": "2024-03-18T12:30:00"
+                },
+                {
+                    "title": "Projet d'analyse math\u00e9matique - introduction\nMr MENET\nNiP.3E11",
+                    "start": "2024-03-25T10:30:00",
+                    "end": "2024-03-25T12:30:00"
+                },
+                {
+                    "title": "Projet d'analyse math\u00e9matique - introduction\nMr MENET\nNiP.3E10",
+                    "start": "2024-04-22T10:30:00",
+                    "end": "2024-04-22T12:30:00"
                 }
             ],
             "Projet de g\u00e9om\u00e9trie alg\u00e9brique": [
